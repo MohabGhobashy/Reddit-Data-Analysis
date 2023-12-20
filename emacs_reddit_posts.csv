@@ -1,0 +1,927 @@
+Author,Upvotes,Comments,Created_At,Title,NSFW,Post_Flair
+mkerrigan,2,2,2023-12-16 23:59:55,Coming up with a way to strip date suffixes,False,
+Unknown,7,36,2023-12-16 21:53:03,How do you use Emacs on Windows 11?,False,Question
+vfclists,2,2,2023-12-16 21:45:37,How can I stop the embark-act notifications constantly resizing the minibuffer?,False,
+rileyrgham,1,2,2023-12-16 18:37:12,desktop-save-mode and server/daemon,False,
+waterstrider123,3,13,2023-12-16 15:45:43,Random pauses while moving around in Emacs,False,Question
+MrMelankoli,3,2,2023-12-16 15:31:30,html-ts-mode?,False,
+eminent101,1,1,2023-12-16 11:17:02,How can I make mhtml-mode highlight complete JavaScript or CSS code present in a .html file?,False,Question
+lets-start-reading,0,44,2023-12-16 10:38:48,"""Antiquated"" systems break usability",False,
+vfclists,0,8,2023-12-16 08:49:41,"At over 1 megabyte is my ""history"" file too big? Informal poll - how big is your history file?",False,Question
+littlesisterrun,6,17,2023-12-16 08:22:37,Help: how to edit non-continuous lines like 3-6L and 7-13L at the same time?,False,Question
+murky_watr,21,6,2023-12-16 05:28:58,How to do I remove this top bar?,False,Question
+Melodic_Security_225,4,6,2023-12-16 05:07:13,Evil mode + exwm,False,Question
+wedontspeaksamelang,1,4,2023-12-16 02:18:41,How can I get all list of property key like tag?,False,
+cidra_,1,2,2023-12-15 22:52:18,#!/usr/bin/emacs -x doesn't appear to work in Termux,False,
+HerissonMignion,0,10,2023-12-15 19:48:30,"Learning Emacs, need help undertanding imenu or ""goto definition"" (in programming), please.",False,Solved
+paarulakan,25,67,2023-12-15 19:48:03,what are some drawbacks of using literate emacs config?,False,
+Far-Anywhere2876,2,3,2023-12-15 19:40:13,Need help getting SICP racket to work in org mode.,False,
+yfhuang97,2,2,2023-12-15 18:05:07,Cannot enable LaTeX-math-mode in org-mode,False,
+dezmondfinney,2,6,2023-12-15 14:20:42,emacs and termux,False,
+unaboomer_2077,3,4,2023-12-15 14:06:48,Color of org header to org-ellipsis,False,
+paarulakan,1,0,2023-12-15 12:46:41,"org-ref installation: (error ""Key sequence a r starts with non-prefix key a"")",False,
+CatUnderOak,3,9,2023-12-15 10:27:23,A weird issue occur to EVIL mode,False,Solved
+LeviLovie,37,19,2023-12-15 03:58:25,Using VIM inside Emacs' terminal,False,
+Psionikus,23,15,2023-12-15 03:37:38,Emacs Speedrun Content,False,News
+github-alphapapa,60,6,2023-12-15 02:44:56,"Emacs Advent Calendar, day 15: alphapapa's Emacs and Org-related packages",False,Announcement
+waterstrider123,1,1,2023-12-14 23:01:35,Issues running EAF for Mac,False,Question
+SnooPets20,1,3,2023-12-14 22:26:35,"Corfu's posframe sometimes gets stuck, how can I fix it?",False,Question
+ottertino415,2,13,2023-12-14 19:10:13,Magit error when commiting,False,
+broman243,6,3,2023-12-14 19:09:09,Using Telegram to interact with OrgMode,False,
+gopar,76,43,2023-12-14 15:06:30,My Modern Emacs UI Setup,False,
+piripicchi,1,2,2023-12-14 11:40:04,HyRolo personal file,False,
+vfclists,5,6,2023-12-14 10:05:33,Who uses emacsql for storage for Lisp data and what are the experiences it?,False,
+Tristan401,2,9,2023-12-14 09:38:21,"Best way to make CAPS be Hyper, and make CAPS+IJKL be same as arrow keys?",False,Question
+1goodbyte,1,1,2023-12-14 09:37:24,"Not sure how to find the message trigger, csharp",False,Question
+waterstrider123,3,9,2023-12-14 06:23:53,Programming workflow with emacs 29,False,Question
+new2bay,7,3,2023-12-14 05:23:07,"Looking for good examples, especially for eieio",False,Question
+atamariya,7,2,2023-12-14 05:22:19,EMMS Tag Editor,False,
+JDRiverRun,42,17,2023-12-14 02:09:05,"Emacs Advent Calendar 14: indent-bars, kind-icon, org-modern-indent, and more",False,
+barnaclesaretasty,3,2,2023-12-14 01:38:54,tree-sitter highlighting problems in org code blocks,False,
+vfclists,1,0,2023-12-13 22:26:01,Is it possible to pre-select items on a helm list when it is displayed?,False,
+MmmmmmmmmmmmDonuts,0,1,2023-12-13 19:50:56,Need Help with Configuring evil-set-leader locally,False,Question
+osvarcha,2,5,2023-12-13 18:10:53,Tectonic + Termus for port Emacs Android,False,
+osvarcha,2,0,2023-12-13 18:10:52,Tectonic + Termus for port Emacs Android,False,
+ReneFroger,135,40,2023-12-13 12:32:48,Emacs' helm is maintained by one maintaner for 11 years long. His mistake to switch from Paetron made him to lose nearly all his contributors. Consider to donate again?,False,
+Miss_Mizzy,70,18,2023-12-13 08:39:34,Comfy Wikipedia Reading Experience (eww + imenu-list + shrface),False,
+AutoModerator,10,7,2023-12-13 08:15:07,"Weekly Tips, Tricks, &c. Thread",False,
+Comprehensive_Mud645,8,16,2023-12-13 05:39:19,How to navigate to bottom bar,False,
+Comprehensive_Mud645,8,7,2023-12-13 02:31:45,Migrating from Neovim,False,
+waterstrider123,4,7,2023-12-13 02:23:05,Displaying fringes with modus-themes,False,Question
+codethrasher,1,1,2023-12-12 23:35:11,Smerge: keep lower for entire file,False,Question
+bbroy4u,6,8,2023-12-12 21:20:45,how to get inline results when pressing C-x C-e,False,
+mikeegg1,0,9,2023-12-12 20:46:07,EMACS package?,False,Question
+geospeck,19,2,2023-12-12 19:53:26,"Emacs: multilingual editing (Greek, French, Chinese, etc.)",False,
+FalconEmbarrassed69,1,5,2023-12-12 18:51:57,Org 9.7 modify latex preview widths and jump over previews,False,
+bbroy4u,6,27,2023-12-12 17:05:25,i wish emacs has smooth scroll and window animations like this,False,
+bbroy4u,0,4,2023-12-12 16:49:41,is there any way to get similiar look in doom modeline,False,
+Hercislife23,4,0,2023-12-12 16:24:27,GitLab Code Suggestions for Emacs,False,Question
+Magiel,3,4,2023-12-12 15:33:07,Gnus: how to search (G G) a combined group (nnvirtual),False,Question
+eternal-hobbyist,1,4,2023-12-12 15:21:45,How do I up my avy/hydra game?,False,
+GroundbreakingAir462,1,0,2023-12-12 14:24:55,Org-table multi-line cells/cell-wrapping,False,
+fast-90,2,9,2023-12-12 12:36:28,'org-element-at-point' cannot be used in non-Org buffer,False,
+domsch1988,14,12,2023-12-12 11:28:48,Your Favorite/Most usefull Mode-Line Segments?,False,emacs-fu
+Laugarhraun,3,3,2023-12-12 10:51:42,Confusion with emacs+slime+quicklisp: (require :some-package) working or not depending on how I evaluate the file,False,Question
+External-Spirited,1,2,2023-12-12 09:50:04,Review-Requests empty in Pull request mode,False,
+I3lind5pot,9,4,2023-12-12 09:19:29,Anyone going to 37c3 and up for a meet-up?,False,Question
+Fluffy_Professor_639,2,5,2023-12-12 07:47:14,Images are grainy and too zoomed in in org 9.7,False,
+Old_Cookie9743,6,18,2023-12-12 04:39:36,When should use-package :custom or setopt be used for setting user options?,False,
+GeekSync,4,10,2023-12-12 01:44:18,How do I find completed tasks,False,Question
+vfclists,1,5,2023-12-12 00:44:34,Is there a way to list all the known mode maps available to Emacs whether accessible or not?,False,Question
+AndreaSomePostfix,3,0,2023-12-11 23:34:42,Make Emacs help in creating an example of Scala classes,False,
+waterstrider123,0,0,2023-12-11 22:49:23,How to setup Bing AI in Emacs?,False,Question
+ImportanceFit1412,3,10,2023-12-11 20:41:21,magit/git: Why do I need to reconcile divergent branches rather than just fix a conflict??,False,
+josiahmattern,2,1,2023-12-11 20:33:40,Just installed org roam and am having a bit of a problem,False,
+Davidbrcz,17,0,2023-12-11 20:19:33,New tree-sitter based major mode for TLA+ / PlusCal v0.1.0,False,
+remillard,3,8,2023-12-11 14:59:50,pdf-tools in Windows,False,
+Crimzennnn,1,0,2023-12-11 11:17:17,Change closed timestamp tag colours emacs org mode,False,
+saarin,26,95,2023-12-11 10:32:00,Packages that you would like to be in emacs core ?,False,Question
+waterstrider123,13,17,2023-12-11 04:22:45,Is there a way to center images in Org-mode or place two images side by side?,False,Question
+MoistFew,21,3,2023-12-11 02:58:06,Major mode for Hurl,False,Announcement
+PracticalViking,4,2,2023-12-10 23:09:24,web-mode vs js2-mode syntax highlighting and lsp-mode questions,False,Question
+vfclists,0,32,2023-12-10 22:44:04,Do we have so many of these Silicon Valley types on this sub-reddit and HN?,False,
+dm_g,3,7,2023-12-10 21:20:49,Is it possible to watch/browse the Emacs Conf from inside emacs?,False,
+hands0m3dude,0,31,2023-12-10 19:38:15,"Recently, emacs has been a pain in the ass for me",False,
+jackprotbringo,1,3,2023-12-10 18:20:42,Help needed with global-company-mode,False,
+blueranger1981,15,5,2023-12-10 16:33:03,Elfeed + LLM,False,
+geospeck,0,159,2023-12-10 15:13:27,"Bad NEWS, Emacs",False,
+FederalStalker,0,25,2023-12-10 13:13:49,I know nothing about emacs. Ask me a question about it and I'll answer as if I do.,False,
+vfclists,4,9,2023-12-10 12:47:57,"Is there a way to list out all the evil commands, their descriptions and their key shortcuts?",False,
+Remote_Tap_7099,11,8,2023-12-10 06:09:08,"The Emacsen family, the design of an Emacs and the importance of Lisp",False,
+ReneFroger,22,8,2023-12-09 23:10:19,Fuzzy Finding with Emacs Instead of fzf,False,
+lounge-582,21,17,2023-12-09 22:37:56,STM (Software Transactional Memory) for Emacs/Elisp?,False,
+nullpspace,1,6,2023-12-09 17:29:12,org-babel problem with gnuploy,False,
+simplex5d,1,7,2023-12-09 14:34:08,Configure clangd in eglot to not add headers?,False,
+astoff1,37,24,2023-12-09 11:33:05,"Emacs Advent Calendar 9: devdocs, code-cells, dREPL, etc.",False,
+tereshkd,4,12,2023-12-09 10:30:17,Slow magit and async input,False,
+bozhidarb,27,4,2023-12-09 10:29:12,super-save 0.4 is out with a bunch of new features!,False,
+yantar92,28,19,2023-12-09 10:02:19,[Results] Please help collecting statistics to optimize Emacs GC defaults,False,
+Moises95,29,4,2023-12-09 08:30:59,Emacs Advent Calendar 8: emacs-goodnight,False,Announcement
+hasturhu,1,4,2023-12-09 02:10:34,Customize Doom Emacs packages?,False,Question
+vsavchenko,51,9,2023-12-08 23:10:29,New Emacs macOS icon,False,
+ltopast,46,20,2023-12-08 16:51:48,My Steam Deck EXWM setup,False,
+vfclists,4,2,2023-12-08 15:27:47,Are there some regular expression libraries in some languages which enable the creation of named abbreviations?,False,
+paarulakan,2,16,2023-12-08 14:03:32,should I use a non expiring gpg key for password stores like .authinfo?,False,
+Phthalleon,4,2,2023-12-08 13:12:52,Lsp code error syntax highlighting,False,
+oantolin,58,31,2023-12-08 07:02:03,"Emacs Advent Calendar 7: ordeless, embark 1.0 and some bric-a-brac",False,Announcement
+github-alphapapa,10,0,2023-12-08 03:50:30,Release 1.3.1 · alphapapa/org-bookmark-heading,False,Announcement
+graduale,6,2,2023-12-08 03:18:32,Forwarding HTML Emails in mu4e,False,Question
+Rich_Ad_8001,1,4,2023-12-08 00:33:25,[evil mode] how to move lines up and down in visual mode?,False,
+Deds0305,1,10,2023-12-07 23:32:01,Some icons are shown and some aren't,False,Question
+mekeor,23,5,2023-12-07 23:04:42,Please contribute to Tree-Sitter based JavaScript and TypeScript Modes in GNU Emacs core,False,
+nv-elisp,36,48,2023-12-07 21:41:27,How to Lock Yourself out of a GPG encrypted file with Emacs,False,
+nullpspace,4,2,2023-12-07 15:10:28,Change linum-face color of modus-operandi-tinted,False,
+vecksagos,2,3,2023-12-07 12:54:52,Debugging with dap-mode and launch.json,False,
+realcarmen1678,0,5,2023-12-07 10:45:46,Org files in Google Drive,False,
+Bluxmit,36,7,2023-12-07 09:02:36,Emacs code editor in browser. Link to the Dockerfile - https://github.com/bluxmit/alnoda-workspaces/tree/main/workspaces/emacs-workspace,False,
+atamariya,10,0,2023-12-07 05:01:33,Stream ListenBrainz.org Music Playlist,False,
+Several-Echidna3425,5,28,2023-12-07 01:40:20,Terminal or GUI app: On which do you use Emacs more?,False,
+trimorphic,7,4,2023-12-07 01:17:46,How to display both relative and absolute line numbers at the same time?,False,
+MinallWch,16,34,2023-12-06 19:04:14,Anyone using GNUS in 2023?,False,
+bbroy4u,4,5,2023-12-06 17:11:50,journaling in orgmode datetree as alternative to different plugins.. need some help as well,False,Question
+karthink,54,8,2023-12-06 16:54:37,"Emacs Advent Calendar 6: elfeed-tube, popper, consult-dir, gptel and more",False,Announcement
+MulberryLeast4599,6,6,2023-12-06 16:35:08,Removing remote information from find-file,False,
+linwaytin,3,0,2023-12-06 15:51:50,Reliable way to fold code blocks for julia,False,
+vfclists,8,9,2023-12-06 13:16:32,"How can the Emacs interface be manipulated by an external script, preferably a REST API?",False,
+vfclists,5,20,2023-12-06 10:19:33,Isn't it better to study Common Lisp before having a go at Elisp or learn them side by side?,False,
+AutoModerator,10,5,2023-12-06 08:15:09,"Weekly Tips, Tricks, &c. Thread",False,
+JohnDoe365,47,3,2023-12-06 07:47:23,GitHub - svaante/dape: Debug Adapter Protocol for Emacs,False,Announcement
+Fluffy_Professor_639,0,5,2023-12-06 07:40:11,How can I use this config?,False,Question
+amiralul,5,5,2023-12-06 07:11:45,Writable hyperdrives? (hypedrive.el question),False,Question
+Amanas23,0,5,2023-12-06 02:25:27,"Switching to emacs, but the Gruvbox theme here looks different than in CLion or VIM",False,Question
+macro__,1,3,2023-12-05 22:49:49,WSL Debian & Emacs is interpreting ALT has SUPER,False,
+NotAnybodysName,4,3,2023-12-05 22:38:03,Fonts on Android,False,
+Electrical-Series146,2,3,2023-12-05 21:11:43,emacs latex-mode question,False,Question
+Piotr_Klibert,11,15,2023-12-05 21:00:25,Supercharge your eval-expression with ielm!,False,
+ph0t0nix,5,3,2023-12-05 20:11:19,"Org-roam: find ""linkable"" text in node",False,
+broken_symlink,4,7,2023-12-05 19:13:48,lsp-mode pylsp starting,False,Question
+vfclists,6,2,2023-12-05 17:21:14,Emacs boffins guide to reprogramming keyboard for EXWM?,False,
+Glad-Resolution-9140,6,1,2023-12-05 16:39:41,Use emacs tree-sitter to get the path of json element,False,
+Massive-Squirrel-255,41,20,2023-12-05 16:35:13,More advanced emacs tutorials,False,
+bci_,18,2,2023-12-05 14:38:47,Emacs Advent Calendar 5: Advent of Code Helper,False,
+aqua0210,8,10,2023-12-05 10:37:16,What is the name of the nice light theme,False,Solved
+MulberryLeast4599,4,3,2023-12-05 02:14:43,Removing compilation from vterm with use-package and elpaca,False,
+Far-Anywhere2876,2,6,2023-12-05 01:35:49,Need help creating elisp function to import org table to sql database?,False,
+introsp3ctor,8,1,2023-12-05 01:21:19,ollama refactor/reify large buffer into questions,False,emacs-fu
+breathe-out,28,3,2023-12-05 00:31:26,Emacs Advent Calendar 4: chordpro-mode.el v2.2.0,False,Announcement
+capenius,3,6,2023-12-04 20:04:38,`gnus-summary-expire-articles` behaves differently when invoked directly vs from hook,False,
+danielkraj,10,13,2023-12-04 16:35:40,Has anyone managed to debug (DAP) python with a virtual environment activated?,False,
+simplex5d,10,5,2023-12-04 15:59:31,Stupid doom-modeline question: what is to the left of the buffer icons and name?,False,
+MinallWch,5,6,2023-12-04 14:39:28,Configuring SMTP Mail sending,False,
+fmou67,4,0,2023-12-04 11:59:45,How to start a deadgrep from a virtual dired,False,Question
+pthierry,3,6,2023-12-04 09:56:04,Lost several features in eglot,False,Question
+timmymayes,1,3,2023-12-04 07:27:55,Any tutorials for Custom Agenda Functions?,False,
+unixbhaskar,25,1,2023-12-04 04:00:47,The Essentials of Emacs Bookmarks,False,emacs-fu
+Quirky-Indication670,1,2,2023-12-04 02:25:23,Emacs install with tree sitter,False,
+DarlingEffect,9,6,2023-12-04 01:05:08,How to native-compile your init file,False,
+shipley7701,3,6,2023-12-03 23:29:20,Narrow org headline search by properties,False,
+github-alphapapa,53,11,2023-12-03 23:28:01,"EmacsConf 2023, day 2: Talks and conclusion",False,Announcement
+Ok-Excitement6326,3,6,2023-12-03 22:28:21,Emacs TTY super+number inserts IO characters!,False,
+Eckomute,3,10,2023-12-03 22:14:23,Having trouble installing packages using custom config and would appreciate any help,False,Solved
+cynroach,2,5,2023-12-03 18:47:19,"Emacs vanilla error, no previous config.",False,
+WuuBoLin,3,3,2023-12-03 11:32:37,Custom read-file-name-function from Vertico/Consult causes rfn-eshadow to stop working.,False,Question
+Aiclys,38,52,2023-12-03 10:50:15,How to learn Emacs?,False,
+tsengf,6,3,2023-12-03 07:55:05,Cycle Through Emacs Themes,False,
+bbroy4u,1,4,2023-12-03 07:20:35,"need some help in emacs config (embark-export , how to set a variable )",False,Question
+Remote_Tap_7099,40,3,2023-12-03 05:51:59,Crafting Ironsworn in Emacs,False,emacs-fu
+breathe-out,33,16,2023-12-03 05:46:30,Emacs Advent Calendar: hyperdrive.el v0.3.0!,False,Announcement
+kalosdaemon,21,2,2023-12-03 03:25:18,Howm: A forgotten gem for note-taking,False,
+broken_symlink,2,5,2023-12-02 23:17:57,Theme not working on emacs 29.1.,False,Question
+cottasteel,44,10,2023-12-02 22:49:48,Emacs Advent Calendar 2: Cyclekey - Quickly cycle through diacritics at point,False,Announcement
+ghiste,1,1,2023-12-02 22:34:45,evil-want-minibuffer interferes with orgmode date picker,False,
+github-alphapapa,32,9,2023-12-02 20:32:26,EmacsConf 2023: How I play TTRPGs in Emacs - Howard Abrams,False,emacs-fu
+Kaptem,5,5,2023-12-02 20:21:55,Implement Apostrophe Hemingway mode,False,Question
+marcin-ski,25,7,2023-12-02 18:53:02,Package alert: surround,False,
+Eckomute,1,4,2023-12-02 16:36:37,Please help write a tangle code that will manage my init.el from a custom.org orgmode file stored on Dropbox.,False,Solved
+arthurno1,28,23,2023-12-02 14:34:21,Advent of Code 2023 with Emacs Lisp — Day 2,False,
+github-alphapapa,64,3,2023-12-02 13:00:45,"EmacsConf 2023, Day one: live in one hour!",False,Announcement
+vfclists,1,3,2023-12-02 10:07:41,Forgotten how insert a function and variable name from `C-h`,False,
+timmymayes,2,2,2023-12-01 23:42:24,Cursor won't leave the mini-buffer with C-g,False,
+cynroach,7,5,2023-12-01 21:30:27,Emacs sometimes opens in a tiny window.,False,
+timmymayes,5,1,2023-12-01 20:42:40,CALFW Recurring Events,False,
+minad-emacs,160,18,2023-12-01 19:51:06,"Emacs Advent Calendar 1: Stable releases of Consult, Corfu, Cape, Vertico and more",False,Announcement
+bitec0de,6,4,2023-12-01 17:55:16,Is it possible to prevent emacs from ever scrolling past the end of a buffer?,False,Question
+BobKoss,6,6,2023-12-01 15:48:29,Buffer completions?,False,Solved
+arthurno1,24,4,2023-12-01 15:23:47,Advent of Code Emacs Lisp — Day 1,False,
+_Arzach_,4,1,2023-12-01 11:35:24,eshell X11 issue,False,
+NotAnybodysName,8,13,2023-12-01 07:43:57,"X days from Easter - calendar, holidays, diary, org",False,Question
+jackprotbringo,7,6,2023-12-01 05:23:22,Hit a wall trying to learn and feeling frustrated,False,Question
+Zaeph,28,4,2023-11-30 22:43:07,EmacsConf joins Free Software Foundation fiscal sponsorship program,False,News
+Eckomute,4,3,2023-11-30 20:31:53,Trying to use Orgmode to customise emacs and make custom named init file within Dropbox folder. It's been a long time since I used emacs and am foggy. A few questions.,False,Question
+Inertialy,3,4,2023-11-30 19:17:57,Help Needed with Config!,False,
+mn_malavida,1,0,2023-11-30 15:47:18,Colorblind white theme like Prot's (modus-operandi-deuteranopia) that works well with lsp-mode?,False,
+MinallWch,6,13,2023-11-30 14:26:23,Anyone using devenv sh with Emacs?,False,
+ZeStig2409,23,27,2023-11-30 14:04:51,Rate my setup,False,
+domsch1988,102,20,2023-11-30 12:39:49,Finally getting somewhere,False,
+arthurno1,2,7,2023-11-30 12:12:45,AoC Puzzle Skeleton Generator,False,emacs-fu
+iwasjusttwittering,18,26,2023-11-30 12:03:00,Using Common Lisp in Emacs [LWN.net],False,
+__EveryNameIsTaken,5,3,2023-11-30 10:22:14,dap mode for c++ not working,False,Question
+KenranThePanda,5,4,2023-11-30 07:57:18,Naga theme: looking for feedback,False,
+BBSnek,7,9,2023-11-30 07:19:11,Emacs fullscreen on M1 Mac - top line hidden by notch,False,Question
+ManWhoTwistsAndTurns,4,14,2023-11-30 04:23:31,Make parenthesis lighter or slightly transparent,False,
+JDRiverRun,27,13,2023-11-30 01:27:38,ultra-scroll-mac: high performance scrolling for emacs-mac,False,
+liesdestroyer,2,5,2023-11-29 23:51:34,Auto-Automatic-Snippets (problem),False,
+xenodium,53,30,2023-11-29 22:59:44,Build your own bookmark launcher,False,
+WorldsEndless,11,11,2023-11-29 22:31:37,My EMMS Transient,False,
+arthurno1,8,2,2023-11-29 20:23:13,How to use use url-retrieve with oauth?,False,Question
+zamansky,9,0,2023-11-29 17:38:00,Learning Elisp 15 - finishing up our emoji mode,False,
+ghiste,2,4,2023-11-29 16:35:01,multi-system init-file,False,
+liesdestroyer,0,7,2023-11-29 13:29:24,Problems with elpaca,False,
+ghiste,0,22,2023-11-29 12:14:59,"""Loading a theme can run Lisp code"" - wtf",False,
+thephatmaster,27,14,2023-11-29 10:52:28,Need help with fun stuff (zone-matrix) on DooM,False,Question
+AutoModerator,6,12,2023-11-29 08:15:08,"Weekly Tips, Tricks, &c. Thread",False,
+Speedracer69696969,3,6,2023-11-29 07:37:42,Replacing hyperlinks with shorthand phrase,False,
+sebhoagie,23,1,2023-11-29 03:27:17,Read Confluence from Emacs! And JIRA tickets. With caveats.,False,
+kalosdaemon,19,0,2023-11-29 03:08:02,Installing and setting up Emacs on NixOS,False,
+whudwl,12,0,2023-11-29 01:55:03,TIL: a maildir file is the same as a .eml file,False,Solved
+Kronkelman,4,1,2023-11-28 22:47:21,How does Doom/Emacs decide which colour depth to use?,False,Question
+dwrz,11,13,2023-11-28 20:26:40,Recommended setup for React development,False,
+darkawower,3,66,2023-11-28 18:49:39,Does eglot support autocomplete candidates with the same name?,False,Question
+kalosdaemon,6,2,2023-11-28 17:11:44,Maximizing Screen Space with GNU Unifont in Emacs,False,emacs-fu
+tarsius_,107,39,2023-11-28 15:45:41,Transient v0.5.0 released,False,Announcement
+graduale,1,14,2023-11-28 15:24:44,Smaller size in mu4e headers view,False,Question
+eis3nheim,2,2,2023-11-28 15:08:31,"Org roam error, ""Error running timer""",False,Solved
+ragnese,12,25,2023-11-28 14:32:14,It is recommended to not use lambdas in (add-hook) expressions. Is there a better way to do (setq)s for major modes without (add-hook) at all?,False,
+domsch1988,10,14,2023-11-28 14:15:16,Advent of Code in Emacs Lisp?,False,Question
+gopar,1,0,2023-11-28 13:20:20,"Web template jump to definition function (Django, Jinja2)",False,
+totemus_prime,17,29,2023-11-28 04:04:50,Emacs Meets ChatGPT for Flawless* Grammar and Spelling,False,
+MitchellMarquez42,6,3,2023-11-27 23:12:58,standalone Ex implementation?,False,Solved
+avrumle,6,11,2023-11-27 22:19:26,Emacs lagging - help me understand this profiler report?,False,
+Nicolas-Rougier,12,6,2023-11-27 21:22:56,Org-mode tag right alignment,False,
+akuszyk,21,7,2023-11-27 19:50:01,Thank you to the author of the terraform-doc package!,False,
+tonyaldon,39,21,2023-11-27 17:19:36,[NEW] one.el - Static Site Generator for Emacs Lisp programmers,False,
+refidy,3,2,2023-11-27 16:13:56,How can I remove repetition in python REPL?,False,
+Big-Bluejay7122,7,2,2023-11-27 16:02:39,emacs lsp-mode with MPLAB X project,False,
+DeinOnkelFred,2,2,2023-11-27 10:38:25,`S-c` mysteriously interpreted as `C-`,False,Question
+lovegirin,6,14,2023-11-27 10:30:45,Best way to search org-mode files?,False,
+chewxy,18,14,2023-11-27 09:21:55,Has anyone reverse engineered the VSCode Live Sharing protocol for emacs yet?,False,Question
+johlae,5,8,2023-11-27 08:04:54,A weird problem with elpa.gnu.org and mastodon.el,False,
+anton-rs,1,1,2023-11-27 07:50:47,how do I remove empty agenda or custom it?,False,
+DocInLA,1,12,2023-11-27 01:11:08,How do I Install Emacs to the Host that I Built in a Virtual Machine?,False,
+ndrwnaguib,17,4,2023-11-27 00:23:47,Elfeed-ArXiv integration,False,
+ReneFroger,32,4,2023-11-26 16:39:03,[Package of the day] Dirvish: a combination of Dired and Ranger,False,
+No-Belt-2789,1,0,2023-11-26 16:04:36,Config mu4e to use gpg subkey for signing,False,
+Evil_Malloc,6,14,2023-11-26 11:50:26,Moving to Emacs - getting issues out of the box,False,
+copingbear,3,5,2023-11-26 11:09:56,Enabling python-ts modę causes my Emacs memory usage to blow up,False,
+paarulakan,1,6,2023-11-26 10:51:07,issue when running with ob-async,False,
+igoryon,3,1,2023-11-26 07:09:27,configure line commenting,False,
+Both_Confidence_4147,2,29,2023-11-26 06:57:53,What is the point of using Vterm or Eat?,False,
+SlowValue,5,2,2023-11-26 00:29:29,calc's elisp function documentation.,False,Question
+Fluffy_Professor_639,7,3,2023-11-25 23:05:37,Is the async functionality already merged?,False,
+Unknown,1,3,2023-11-25 21:36:21,Sending notification from Android Emacs,False,Question
+Both_Confidence_4147,18,47,2023-11-25 11:31:23,How to show what separates emacs from other IDEs,False,
+SaraBiYo,43,16,2023-11-25 10:33:26,Karthinks - Different strokes for different folks,False,
+vfclists,4,3,2023-11-24 22:22:30,Does org have a command to hide all the drawers and just show the headline and the text below the properties drawers?,False,
+maufdez,5,2,2023-11-24 20:20:23,Diary Appt Alert Behavior,False,
+bbroy4u,21,16,2023-11-24 18:45:49,Emacs alternative for window animations like these?,False,
+xenodium,104,12,2023-11-24 15:29:06,Emacs Swift module is wonderful for macOS native UX integrations,False,
+Winter_Fall8260,8,9,2023-11-24 14:24:00,Using local language server for remote files,False,
+p-orbitals,6,2,2023-11-24 13:50:48,EmacsWiki: Moving The Ctrl Key,False,
+emacspls,16,18,2023-11-24 07:27:13,"Hello lag, my old friend",False,
+paarulakan,7,5,2023-11-24 04:34:53,elpaca fails to access the repos.,False,
+Fluffy_Professor_639,6,7,2023-11-24 02:45:42,Can i run emacs gui on a quest 3?,False,
+blue_turnip5,2,7,2023-11-24 02:06:01,"emacs not responding to keystrokes, only showing in terminal mac",False,
+stevemolitor,10,6,2023-11-23 23:32:42,"Turning on font ""smart kerning"" or ""texture healing"" in Emacs",False,
+jamescherti,6,1,2023-11-23 22:54:43,Open a Vertico/Consult or Ivy/Counsel candidate in a new tab,False,
+BlurbKey5b2e10fa,3,4,2023-11-23 22:42:15,Coding system warning prompt when saving GPG file,False,Question
+moseswithhisbooks,3,7,2023-11-23 22:09:48,“C-x C-e for Java”: Inline eval of Java exprs to produce a gallery app,False,
+Kinetic-Turtle,5,11,2023-11-23 19:07:32,"I want to journaling, but I need a few specific things. Can you tell me if Emacs can do them, before start learning it?",False,
+argsmatter,1,6,2023-11-23 17:16:18,"How to only install nerd fonts, when needed",False,
+Clandestine17,2,2,2023-11-23 15:29:15,Modern Windows Emacs Dired Context Menu Helper?,False,
+absolute_dumbass,32,38,2023-11-23 13:26:33,"Does anyone run Emacs with wsl2? I've noticed that fonts are quite a bit less crisp than they could be. On the left is running Emacs on a native terminal, on the right is the gui application.",False,
+akuszyk,13,8,2023-11-23 12:48:02,Visualising data analysis in org-mode,False,
+atamariya,11,0,2023-11-23 10:33:28,One-click Social Media Client - Youtube,False,
+thephatmaster,5,14,2023-11-23 06:34:34,Are links without spaces just a doom thing? They're driving me potty!,False,Question
+Psionikus,6,0,2023-11-23 02:14:33,I made some updates to Keypression and Command Log,False,News
+vfclists,5,9,2023-11-23 01:13:19,How can swiper or some other search be restricted to a range of columns in a buffer?,False,
+Fate_sc,28,47,2023-11-22 21:22:24,How rewarding learning Elisp can be?,False,
+xenodium,8,0,2023-11-22 20:39:22,Want to try an org-backed journaling iOS app? DM me an email address for TestFlight invite.,False,
+materus,3,5,2023-11-22 19:52:52,Emacs slow to open file if autosave exists,False,
+metanote-team,18,2,2023-11-22 14:33:31,Metanote: Fully supports Org mode custom agenda view now!,False,
+Unfair_Rice_3347,3,14,2023-11-22 13:18:38,How can I save the result of a ripgrep search,False,
+domsch1988,6,18,2023-11-22 09:50:36,"What to use for ""Context Management""?",False,Question
+Far-Anywhere2876,2,1,2023-11-22 09:17:50,Emacs 29.1 Org 9.7 Issues with Auctex,False,
+unhammer,31,22,2023-11-22 09:13:42,"Overcolorization (""Everything is purple"")",False,
+AutoModerator,7,30,2023-11-22 08:15:08,"Weekly Tips, Tricks, &c. Thread",False,
+CatUnderOak,0,1,2023-11-22 07:37:04,load-path setting doesn't work,False,
+daddyc00l,3,9,2023-11-22 03:30:26,Vertico Configuration And Directories With A '.git' Suffix,False,
+Mamonimoni,0,10,2023-11-22 02:34:31,Is it possible to grab Mail.app desktop links in org and then open them in the iOS app?,False,Question
+vfclists,5,4,2023-11-22 00:55:17,Is there some kind of completing-read-multiple command that allows enables selecting without filtering like the Ctrl-Space used in helm-mini?,False,
+field_thought_slight,1,4,2023-11-22 00:47:41,Why does pop-to-buffer break save-excursion?,False,
+MagosTychoides,29,26,2023-11-21 23:02:06,"I tried neovim and helix, and finally vim-likes are becoming more emacs-like",False,
+melonakos,0,6,2023-11-21 22:28:32,Talk to Emacs with a GPT4 Co-Worker,False,
+aaronaddleman,0,2,2023-11-21 21:55:31,"eMacs, docker, and Python packages",False,
+zamansky,23,3,2023-11-21 20:12:38,Learning Elisp episode 14 - a minor mode,False,
+goofansu,9,4,2023-11-21 04:03:49,How can I make embark-act respect the selected file's own directory instead of the default-directory?,False,
+MailRegular8914,32,58,2023-11-20 23:28:31,"How can I become a more ""proficient"" Emacs user? Esp. in regards to developing",False,
+Wood_Work16666,2,2,2023-11-20 16:28:21,What is the proper way to set East Asia font preference?,False,
+DOMINATORLORD9872,2,2,2023-11-20 14:26:46,"[Eglot] JSON RPC Connection Error 32603 ""Internal Error""",False,Question
+vanniuner,0,0,2023-11-20 14:26:22,neo emacs for beginners,False,
+saarin,5,87,2023-11-20 13:21:57,Is the lack of multithreading support in emacs a dealbreaker for you?,False,
+BustyBubby,2,0,2023-11-20 12:16:27,Transparency for Doom Emacs 29.1 on Windows?,False,
+field_thought_slight,19,10,2023-11-20 11:05:19,org-roam: Automatically log modified nodes in daily note,False,
+SlowValue,3,3,2023-11-20 09:57:31,"Request for help fixing a font display issue with Emacs 29.1, X11",False,Question
+unixbhaskar,10,1,2023-11-20 02:02:12,Defalias: a quick guide to making an alias in Emacs,False,emacs-fu
+Blackthorn,5,10,2023-11-20 02:01:09,A not-so-simple function and keybinding for querying the user during keyboard macros,False,emacs-fu
+Public_Possibility_5,14,26,2023-11-19 21:00:45,Logseq equivalent for Emacs?,False,
+schwanzuslongus23,18,10,2023-11-19 19:18:44,Using Dired with only one hand (for browsing dired and files while relaxing) Super cool.,False,
+vfclists,7,10,2023-11-19 12:23:20,"Project grep search with folded results, navigable file preview, search term and results window retention?",False,
+magthe0,23,23,2023-11-19 08:22:00,Making Emacs without terminal emulator a little more usable,False,
+SS4L1234,0,12,2023-11-18 21:49:43,C mode indentation weird,False,
+renzmann,73,2,2023-11-18 19:28:31,I'm bumping `treesit-auto` to v1.0,False,
+Commercial_Repeat_59,2,1,2023-11-18 19:26:30,Dashboard directory,False,Question
+geospeck,50,11,2023-11-18 18:06:38,Emacs: ediff basics,False,
+Schroedinger50PCT,3,0,2023-11-18 16:56:55,Virtual keyboard for emacs?,False,
+camber-weaver,5,12,2023-11-18 16:52:54,Advice from elisp hackers on improvemenets to tuedachu/ytdl?,False,
+NGB_UF,3,2,2023-11-18 16:39:14,Enter key not working as expected on a new PC,False,
+partyhesitancy,1,0,2023-11-18 15:01:23,Running flutter run from a terminal doesn't enable hot reload on save,False,
+txgvnn,25,4,2023-11-18 13:19:07,project-tasks: Efficient task management for your projects by using org-babel.,False,Announcement
+mklsls,1,1,2023-11-18 13:15:15,How to disable corfu only when `lsp-bride-mode` is active?,False,Question
+ivano_GiovSiciliano,13,42,2023-11-18 11:48:20,emacs org for brainstorming is not optimal,False,
+fragbot2,6,7,2023-11-18 01:14:13,Iterating through a data structure doing interactive edits on each element,False,emacs-fu
+agumonkey,7,3,2023-11-18 01:03:21,"Eoops: an object-oriented programming system for Emacs-Lisp: ACM SIGPLAN Lisp Pointers: Vol V, No 3",False,
+bradmont,1,10,2023-11-17 19:41:27,Does anyone have a workflow for quickly adding todos to org mode from a web-mail interface like gmail or proton?,False,
+Glittering_Boot_3612,0,4,2023-11-17 19:32:37,why is SPC-c c for compiling and SPC-c C for recompiling? [DOOM EMACS],False,Question
+larrygwapnitsky,8,5,2023-11-17 16:49:44,emacs on android,False,
+ColaOChicken,19,2,2023-11-17 15:17:50,Emacs Workspace: IDE + Yet Another Jupyter,False,
+debordian,3,12,2023-11-17 14:19:24,"GitHub - emacs-ng/emacs-ng: A new approach to Emacs - Including TypeScript, Threading, Async I/O, and WebRender.",False,
+paarulakan,3,1,2023-11-17 10:24:19,TRAMP to edit files inside LXC container not working.,False,
+paarulakan,3,1,2023-11-17 06:26:21,⛔ Warning (with-editor): Cannot determine a suitable Emacsclient,False,
+Simulr,4,9,2023-11-17 00:07:41,No org-babel-execute function for grep!,False,
+balloneij,18,6,2023-11-16 21:35:04,selection-highlight-mode - A minor mode for highlighting matches to the selection (inspired by VS Code),False,Announcement
+Snoo-59698,25,4,2023-11-16 20:48:35,"Debug multi threaded Python apps with Emacs, eglot and dape",False,
+neupermichael,49,28,2023-11-16 19:29:24,My LaTeX setup with emacs,False,
+aqjo,2,0,2023-11-16 17:56:47,"(error ""Selecting deleted buffer"") working with an org buffer with an effort table",False,
+sen-san,2,10,2023-11-16 17:19:06,adding MELPA package archive,False,Question
+LightningSNTz55,104,63,2023-11-16 15:20:17,I love emacs,False,
+fmou67,0,2,2023-11-16 11:58:37,How to modify the default folder shown by org-attach,False,Question
+wybryk-ananasa,3,12,2023-11-16 11:24:45,How do I speed up output from an async-shell-command or start-process?,False,
+doolio_,2,3,2023-11-16 10:51:01,Point jumps to start of buffer after save when there are changes to save,False,Solved
+magthe0,8,13,2023-11-16 07:03:33,Using the golang mode shipped with Emacs,False,
+grom358,7,10,2023-11-16 03:01:47,Note taking,False,
+ruby_on_rawrls,16,8,2023-11-15 23:37:36,What do these characters in the describe-function completion minibuffer mean?,False,
+Qubytes,118,21,2023-11-15 18:53:16,Needed this so bad,False,
+reliableops,0,2,2023-11-15 17:24:01,Customizing imenu to select the current function under the cursor by default,False,
+ragnese,26,79,2023-11-15 16:33:48,"Does anyone else feel like use-package might be the wrong abstraction, or do I just not get it?",False,
+remillard,3,12,2023-11-15 13:29:13,Long Document Navigation (bookmarks? folding?),False,
+olymk2,1,1,2023-11-15 13:04:28,golang templ mode ?,False,
+Complex_Outcome697,16,2,2023-11-15 11:26:09,EMT - Emacs MacOS Tokenizer for enhanced CJK word operations,False,
+thephatmaster,255,71,2023-11-15 09:41:13,Just for fun: roast my work / play setup,False,
+zsome,2,8,2023-11-15 09:38:16,Better cua-mode,False,
+vfclists,2,1,2023-11-15 08:47:35,Is the SQLite library developed for Emacs 29 are available for Emacs 28 or 27 through the compatibility layer?,False,
+AutoModerator,7,30,2023-11-15 08:15:09,"Weekly Tips, Tricks, &c. Thread",False,
+Freemason_1,1,11,2023-11-15 06:23:03,Better code autocompletion in Emacs?,False,
+varsderk,5,16,2023-11-15 05:02:09,I have created an abomination,False,
+blureglades,5,4,2023-11-15 02:23:29,haskell-mode error: Symbol's value as variable is void: flymake-allowed-file-name-masks,False,Question
+jcubic,2,4,2023-11-14 21:41:27,My code to send raw keystrokes to ansi-term doesn't work with Emacs 29.1,False,
+jsadusk,8,8,2023-11-14 19:38:08,Generic LSP server as a flymake/flycheck backend?,False,
+vfclists,5,3,2023-11-14 17:37:29,How are circular function references and forward function declarations handled in emacs lisp?,False,
+Ybenel,9,36,2023-11-14 15:02:44,Emacs natively on Wayland (PGTK) is slower than on Xwayland (Lucid) Also fonts are not looking good on both (but good on X).,False,
+darkawower,254,62,2023-11-14 15:00:57,OrgNote - mobile app inspired by org-roam and org-roam-ui (early beta),False,Announcement
+TiMueller,2,3,2023-11-14 14:09:47,goto-last-change doesn't work well,False,
+lets-start-reading,2,4,2023-11-14 11:58:04,A consistent way to map `C-{lowercase}` and `C-{uppercase}`?,False,
+dubcroster,29,32,2023-11-14 09:52:58,Frustrating python lsp experience,False,Question
+blureglades,2,3,2023-11-14 00:05:28,How do improve code diagnostics in eglot?,False,Question
+Ybenel,4,13,2023-11-13 23:12:15,Installing 2 Different builds of Emacs Version (29) (Attempt to fix fonts in Wayland),False,
+Far-Anywhere2876,2,12,2023-11-13 21:53:08,Does anyone have a function they use to quickly copy org as markdown vice-versa?,False,
+thephatmaster,2,2,2023-11-13 21:23:06,suggestions for synthwave theme?,False,Question
+field_thought_slight,14,11,2023-11-13 20:15:00,Any way to make a variable save its old value?,False,
+R3D3-1,4,3,2023-11-13 20:11:42,"Spurious ""unknown type"" compiler warnings in Emacs 29.1?",False,Question
+thephatmaster,3,3,2023-11-13 16:51:36,Keep getting stuck with 2 fallback buffers,False,Question
+R3D3-1,3,0,2023-11-13 15:41:16,Changed behavior of `format-spec' from 27.1 to 29.1,False,emacs-fu
+xalixil,1,1,2023-11-13 14:53:34,Passing current file name to compile command,False,
+R3D3-1,12,3,2023-11-13 09:33:42,Smarter line-breaking in visual-line-mode?,False,Question
+JohnDoe365,2,2,2023-11-13 07:01:08,Emacs desktop option to NOT restore frame position and size,False,Question
+amiralul,42,5,2023-11-13 06:58:32,Denote (denote.el) version 2.1.0 released!,False,News
+chieftwit,3,2,2023-11-13 04:53:52,GPT Emacs Expert,False,
+DurableOne,4,0,2023-11-13 03:33:04,Orgmunge 0.2.0 released,False,
+paarulakan,4,7,2023-11-13 01:56:36,Extracting forums posts like reddit discussions into plaintext format like org,False,
+No-Storage111,3,3,2023-11-12 20:32:22,How to apply different font for math fragments in org mode?,False,
+sebasTEEan,46,16,2023-11-12 18:21:15,journalctl-mode v1.1,False,Announcement
+Glittering_Boot_3612,0,3,2023-11-12 15:25:49,why does doom emacs side bar not render icons correctly ??,False,Question
+vermiculus,26,14,2023-11-12 15:04:52,What are your favorite companion packages to eglot?,False,
+igoryon,6,19,2023-11-12 11:15:14,built-in web server for the web project,False,
+igoryon,2,5,2023-11-12 05:35:26,Opening resouces directly from source urls while performing web development,False,
+Thaodan,2,11,2023-11-12 03:37:17,Package to manage Bookmarks inside Emacs,False,
+xenodium,65,18,2023-11-12 00:35:21,"Not everyone's cup of tea, but this is now in chatgpt-shell (works on current buffer or dired selection)",False,
+OverMilord,28,26,2023-11-11 19:38:51,Kickstart.emacs Starter kit for Gnu Emacs,False,Announcement
+ProfessionalFamous86,2,3,2023-11-11 19:37:42,consult--line with C--w,False,Question
+vfclists,2,7,2023-11-11 18:37:55,"What is the Emacs regex for matching a filename which contains periods, dashes and underscores?",False,
+jsled,1,3,2023-11-11 17:54:50,Navigating the Linux Textscape using Vim and Emacs,False,News
+BabySavesko,11,3,2023-11-11 16:29:47,Doom Emacs + DAP Mode: Anyone willing to share their config?,False,
+JDRiverRun,9,8,2023-11-11 13:14:38,comint-fold: fold input + output blocks in Emacs shells,False,
+Glittering_Boot_3612,6,13,2023-11-11 11:53:53,just started using emacs elisp guide for beginners?,False,Question
+XCapitan_1,26,11,2023-11-11 10:36:51,Declarative filesystem management with Emacs & Org Mode,False,emacs-fu
+vfclists,9,14,2023-11-11 05:42:01,consult-buffer results in screen with escape codes and whatnots,False,
+jcubic,0,2,2023-11-10 21:06:42,ChatGPT tool inside GNU Emacs,False,
+varsderk,15,27,2023-11-10 21:02:09,What do you use for searching?,False,
+cruebob,4,11,2023-11-10 20:05:52,Green themes recommendation request,False,
+TaijiKungFu,2,7,2023-11-10 19:53:14,EMacs on Mac opening two instances,False,
+foodmonstereater,3,0,2023-11-10 18:31:10,racket-hash-lang-mode,False,Announcement
+uneducated_guess_,1,4,2023-11-10 17:31:09,New Frame starts extremely small,False,Solved
+jamescherti,6,0,2023-11-10 17:25:08,Converting code snippets from Ultisnips format to YASnippet format,False,
+NGB_UF,3,4,2023-11-10 14:09:27,Having problems adding certain keybinds to Doom Emacs,False,
+ph0t0nix,5,7,2023-11-10 11:24:41,Forge: no longer showing merge request numbers in Magit-log (since quite some time...),False,
+TyrionBean,10,26,2023-11-10 09:55:25,Dired: How to move all files in subdirectories to directory above?,False,Question
+nonamepew,9,15,2023-11-10 06:35:16,How to speed up Pyright + eglot.,False,Solved
+grepkins,5,2,2023-11-10 06:08:04,"PlantUML, no ASCII in :results verbatim mode",False,
+vfclists,1,1,2023-11-10 01:02:50,"How do I get ""C-x b"" in regular emacs to behave like it does in Doom, or like swiper-all in regular Emacs?",False,
+jemadux,22,26,2023-11-09 23:32:33,i wanna try emacs,False,Question
+varsderk,7,5,2023-11-09 21:39:36,Is there a Vim port of Denote?,False,
+xalixil,16,15,2023-11-09 21:25:28,ripgrep and emacs,False,
+bbroy4u,1,2,2023-11-09 20:38:31,is there any equivalent of highlight-undo.nvim in emacs?,False,
+aviikc,5,7,2023-11-09 16:29:21,Using zoxide inside eshell.,False,
+fz0x1,25,34,2023-11-09 16:14:36,Emacs as a replacement tmux,False,Question
+justplanechad,1,3,2023-11-09 15:55:50,Issues with following links in Gnu Hyperbole,False,
+g06lin,3,4,2023-11-09 15:14:17,Hiding org agenda files from buffer list,False,
+graduale,2,3,2023-11-09 14:59:13,Struggling with setting a value for `outline-regexp`,False,
+AbstProcDo,2,5,2023-11-09 07:41:09,Symbol Display Issue for Partly Cloudy Weather⛅️,False,Question
+fmou67,2,3,2023-11-09 07:14:53,how to change the layout of the minibuffer,False,Question
+larrasket,6,7,2023-11-09 06:02:23,How to detect unused includes in C source code?,False,Question
+fz0x1,11,10,2023-11-09 04:38:28,How to use doom emacs w/o evil-mode?,False,Question
+CatUnderOak,3,2,2023-11-09 03:05:43,org-mode issues: org-agenda-files don't work,False,
+ladyn_,20,15,2023-11-08 19:19:46,anyone know how to fix the UI on doom emacs? the symbols don't show up correctly,False,
+paarulakan,3,1,2023-11-08 19:03:40,Fedwiki org-roam integration,False,
+fredy,0,1,2023-11-08 17:52:02,limited theme colors over ssh connection,False,
+zamansky,4,0,2023-11-08 16:38:51,Learning elisp -text properties,False,
+olivuser,1,0,2023-11-08 16:11:07,Desktop save versus darkroom-mode: darkroom-mode applied a second time when using desktop-read with buffers that already have darkroom-mode activated,False,
+yottanami,2,2,2023-11-08 16:02:10,Exwm error: cl-no-applicable-method xcb:-+request,False,Question
+ondrej-p,13,12,2023-11-08 14:37:45,Eat Background Color,False,
+amiralul,3,5,2023-11-08 11:10:25,org-transclusion and denote,False,Question
+thephatmaster,0,4,2023-11-08 09:38:45,Emacs (distrobox) won't launch after reboot - any tips for debugging?,False,
+JohnDoe365,1,4,2023-11-08 09:22:14,"Grep, link to source and outline overview",False,Question
+AutoModerator,12,17,2023-11-08 08:15:07,"Weekly Tips, Tricks, &c. Thread",False,
+No_Fondant_4762,2,0,2023-11-08 01:04:59,perspective-el - duplicate workspace indicators in each visible window,False,
+Patient_Chance_3795,2,0,2023-11-07 22:56:07,"python-shell-completion-complete-or-indent (Tab, in an inferior python mode shell) completes ""__PYTHON_EL_eval_file""",False,
+xenodium,139,25,2023-11-07 19:30:52,When keyboard macros do the work for ya,False,
+Patient_Chance_3795,4,7,2023-11-07 12:25:16,Folding in comint-mode,False,
+unixbhaskar,3,0,2023-11-07 11:46:33,Install Emacs on Chrome OS Flex,False,emacs-fu
+rayslava,2,1,2023-11-07 09:44:19,Emacs 29 GNUS font faces issue,False,
+magthe0,2,4,2023-11-07 08:07:44,Copy-pasting from Emacs to Chrome-based browsers breaks unicode (I think),False,
+ylluminate,1,14,2023-11-07 06:58:45,How to make emacs on macOS behave more like TextMate in terms of keybindings and opening/closing desktop (workspace)?,False,Question
+hvis,27,6,2023-11-07 01:29:30,company-mode popup now working better with non-monospaced chars,False,
+graduale,2,6,2023-11-06 22:26:54,What determines the appearance of the `help-for-help` buffer?,False,Question
+Commercial_Turn1346,0,9,2023-11-06 20:35:32,Magit Commit Error,False,
+FlamePhysics,2,4,2023-11-06 20:23:49,Emacs spell check without mouse while in LaTeX help.,False,Solved
+Waeningrobert,12,45,2023-11-06 17:55:13,How do you sync your dotfiles and the files that you edit?,False,Question
+tanrax,3,11,2023-11-06 17:51:07,"I have a problem with Magit when I make a commit: ""Waiting for your editor to close the file.""",False,
+Emakstown,2,7,2023-11-06 15:44:40,Overwrite mode is not working with Korean characters.,False,
+Psionikus,21,12,2023-11-06 13:39:46,Elisp Repo Kit demonstration,False,Announcement
+buhtz,5,5,2023-11-06 11:02:01,Python / eglot: Detect naming typos in functions,False,
+fmou67,2,10,2023-11-06 08:38:28,How to work with a list of files in a Dired buffer (org-agenda-files),False,Question
+thephatmaster,99,31,2023-11-05 21:35:31,Finally got emacs installed on my steamdeck,False,Solved
+llemaitre19,28,9,2023-11-05 21:17:48,jtsx - New package extending Emacs JSX/TSX built-in support,False,Announcement
+cljnewbie2019,10,5,2023-11-05 21:06:16,Moving from Doom to Vanilla Emacs - consult-buffer,False,
+MitsHaruko,1,2,2023-11-05 18:24:50,"cdlatex, parenthesis autopair and other autopairing modes",False,Question
+slk_g500,8,10,2023-11-05 18:16:45,Using org-mode as an SQL playground - error lsp-org,False,
+jvillasante,4,10,2023-11-05 15:36:16,Password store clear clipboard,False,
+ltopast,7,10,2023-11-05 12:28:05,Is there a way to pin items in the M-x menu?,False,
+juicecelery,0,1,2023-11-05 09:56:12,Is the callback to (xwidget-webkit-execute-script) ever triggered?,False,
+lu2idreams,2,3,2023-11-05 09:49:58,[GNOME/Wayland] Emacs dark title bar,False,
+Thf_killer,13,18,2023-11-05 08:38:53,How usable is Emacs + logseq currently?,False,
+External-Spirited,1,5,2023-11-05 06:06:50,Use Gmail atom feeds in Elfeed,False,Question
+meedstrom,10,0,2023-11-04 23:51:01,"New package: massmapper! Bind lots of new default keys, e.g. prepopulate Super with everything that was under Ctl-Meta",False,Announcement
+objective_porpoise,3,3,2023-11-04 22:27:50,Problem making overlays invisible,False,Solved
+desquared,14,12,2023-11-04 21:23:52,"emacs package or command to show a ""tip/trick of the day""?",False,
+thephatmaster,0,1,2023-11-04 21:10:51,Need help with final install hurdle - doom sync,False,Question
+Calm-Bass-4740,4,3,2023-11-04 15:29:27,Latin small caps in Emacs,False,
+JoeKazama,91,31,2023-11-04 13:02:20,Shout out to the eat terminal emulator package,False,emacs-fu
+Ok_Cartoonist_8730,0,15,2023-11-04 12:15:25,Theme suggestion request,False,
+summeremacs,2,3,2023-11-04 09:15:22,Bluesky Emacs Client?,False,Question
+centzon400,18,8,2023-11-04 08:30:58,[history] Understanding the origins and the evolution of Vi and Vim,False,
+vfclists,2,3,2023-11-04 01:22:27,Are these cell references in this org-table spreadsheet formulae valid?,False,
+geospeck,64,26,2023-11-03 22:44:49,You don't need a terminal emulator,False,
+eis3nheim,2,0,2023-11-03 20:54:26,How to configure Arduino LSP?,False,Question
+aghull,3,3,2023-11-03 20:00:32,company mode replacement behaviour when point in middle of word,False,Question
+paarulakan,3,7,2023-11-03 18:28:31,^[7 ^[8 characters appear inside emacs *shell*. How to avoid them?,False,
+BullCityPicker,2,10,2023-11-03 15:20:08,How do I specify a Language Interpreter (R in ESS-Emacs),False,
+ReneFroger,4,1,2023-11-03 14:13:39,[Package of the day] Loophole - set temporarily keybindings,False,
+arthurno1,20,3,2023-11-03 12:13:27,Algorithmic Composition: A Gentle Introduction to Music Composition Using Common LISP and Common Music,False,
+AbstProcDo,12,6,2023-11-03 11:11:51,"Accepting of the omnipresent of ""faces"" as ""font"" and ""typeface"" are interchangeable",False,
+fmou67,2,0,2023-11-03 10:17:00,"filetags vs regular tags and org-roam note-taking: can tags be ""context"" dependant or is there a way to create new kinds of tags?",False,Question
+rileyrgham,2,5,2023-11-03 09:20:03,"BMKP, BookMarkPlus - changing bookmark paths : errors",False,
+g06lin,4,5,2023-11-03 03:09:08,buffer-face-mode everywhere,False,
+tuhdo,24,7,2023-11-02 17:32:02,[Guide] Setup NANO Emacs theme properly on Windows (Screenshots inside),False,emacs-fu
+JoukeHijlkema,33,3,2023-11-02 15:45:08,Create flowcharts with org-mode,False,
+summeremacs,5,19,2023-11-02 15:18:05,Use consult (maybe bookmarks?) in dired minibuffer browsing to other directory?,False,Question
+fmou67,9,5,2023-11-02 13:18:35,Any package to inform about emacs bindings when evil bindings are used,False,
+paarulakan,5,7,2023-11-02 12:36:54,Hashing a pdf and other files in emacs-lisp,False,
+olymk2,0,2,2023-11-02 09:03:37,eval-expression Can't eval elisp code with enter,False,
+CompetitiveToe4462,1,2,2023-11-02 08:53:39,Doom Emacs: delete multiple spaces by a single <Backspace> (reverse tab-like behavior),False,
+hunt_for_highprotein,12,2,2023-11-02 06:19:33,"Any Easy way to setup protonmail, (send ,receive mail) using emacs?",False,
+paarulakan,2,3,2023-11-02 06:01:51,bongo + mpv - error in process filter: JSON readtable error: 115,False,Question
+rileyrgham,4,0,2023-11-01 11:27:15,LSP project import not sticky,False,
+thephatmaster,6,3,2023-11-01 09:06:32,Steamdeck install (flatpack?),False,Question
+AutoModerator,13,5,2023-11-01 08:15:07,"Weekly Tips, Tricks, &c. Thread",False,
+CompetitiveToe4462,1,3,2023-11-01 08:01:18,Doom Emacs: delete a word using <Right Option>+<Backspace>,False,
+hunt_for_highprotein,5,8,2023-11-01 07:24:49,How to use whatsapp / facebook messenger through emacs?,False,
+Kwisacks,52,12,2023-11-01 06:52:12,Nice and entertaining Emacs praise video. Link points to when he starts talking about emacs and neovim.,False,
+Mahir1210,11,1,2023-11-01 03:09:51,How to change neotree icons,False,Question
+B_A_Skeptic,0,19,2023-10-31 22:59:52,How to have a file manager appear on the side when I open emacs?,False,Question
+SirNatzgun,2,0,2023-10-31 22:45:36,"Folder icon not showing in ""neotree"" file manager.",False,
+B_A_Skeptic,7,3,2023-10-31 22:04:49,Is it possible to output logs from your init.el file?,False,Question
+EKFLF,14,10,2023-10-31 18:08:16,"Why I can't type lowercase ""q"" after LSP started [more in comments]",False,Solved
+TyrionBean,6,11,2023-10-31 06:31:43,FreshRSS and Elfeed?,False,Question
+brittAnderson,3,8,2023-10-31 17:16:23,Trying to use mu search in gnus and failing,False,
+maxkool,3,3,2023-10-31 12:04:42,Emacs on WSL Home directory: How to use the same config and packages as Windows Emacs,False,
+AbstProcDo,12,2,2023-10-31 08:15:30,How display SVG images with a Light background while using dark-theme in org mode,False,
+rorrryyyy,13,15,2023-10-31 06:09:04,How to version control elpa directory to work in both linux and windows?,False,
+Desperate_Donut_7527,10,6,2023-10-31 00:55:20,Better spacing and folding in org-mode?,False,Question
+JuanitoPollito,9,14,2023-10-30 23:57:38,Mac users be wary of macOS 14 Sonoma,False,
+cloudyearnings,6,15,2023-10-30 23:17:02,M-: (AKA M-x eval-expression) does nothing upon hitting RET. What could cause this?,False,Question
+Restitutionshot,2,2,2023-10-30 23:13:28,company completion not working in find-file,False,Solved
+jmjones5,6,11,2023-10-30 21:30:31,Autosave package code review?,False,
+zamansky,24,0,2023-10-30 17:55:59,Learning Elisp part 12 - using hooks,False,
+g06lin,3,7,2023-10-30 16:18:31,Opening org-agenda takes up the entire frame,False,
+Mamonimoni,1,0,2023-10-30 15:21:23,Automatic filtering of newsletters in mu4e?,False,Question
+larrasket,23,58,2023-10-30 12:03:03,Share how did you make Emacs faster.,False,emacs-fu
+tms9918,8,5,2023-10-30 07:41:02,Periodically run an external program and show notifications in the mode line,False,
+unixbhaskar,13,2,2023-10-30 05:49:49,The conception and depiction of lines in Emacs (Advanced Topic),False,emacs-fu
+summeremacs,4,6,2023-10-30 05:13:57,Copy Photos/Images to MacOS Photos app?,False,
+StrangeAstronomer,5,4,2023-10-29 22:38:52,emacs on chromebooks,False,
+AnalystOrDeveloper,0,21,2023-10-29 18:16:47,Does Emacs Support Parallel Processing in a Juypter Notebook Equivalent Environment?,False,Question
+_poly102,12,16,2023-10-29 15:07:15,Lsp,False,Question
+brandelune,2,3,2023-10-29 14:20:22,Weird error with zotxt,False,Question
+geza42,2,9,2023-10-29 13:27:08,Solution for inserting a filename to a buffer using recursive fuzzy search?,False,
+LionyxML,70,16,2023-10-29 13:23:56,Ollama on Emacs with Ellama,False,
+cidra_,9,8,2023-10-29 11:03:22,Cancel pending key chain,False,
+TiMueller,1,8,2023-10-29 09:25:16,Prevent agenda search from adding all searched files to recentf-list,False,
+PrezirePlayz,0,39,2023-10-29 08:17:18,Why emacs,False,Question
+karthink,42,7,2023-10-29 07:47:33,gptel 0.5.0: with multi/local LLM support,False,Announcement
+github-alphapapa,11,0,2023-10-29 04:15:41,Release v1.2 · alphapapa/org-web-tools,False,Announcement
+ElfOfPi,6,15,2023-10-29 02:46:26,Rate my elisp,False,Question
+thephatmaster,18,36,2023-10-28 21:12:43,Emacs without a keyboard?,False,
+oussama111,0,2,2023-10-28 20:31:11,nov.el doesn't work well with evil-mode,False,
+telepath12,10,8,2023-10-28 18:32:24,Integrating Citar and Org-roam,False,Solved
+Unknown,8,10,2023-10-28 09:41:10,Using custom packages with Elpaca,False,
+g06lin,0,10,2023-10-28 08:38:13,Combining use-package and general,False,
+danielkraj,2,7,2023-10-28 01:30:47,Any guide how to change font colors?,False,
+spudlyo,25,4,2023-10-27 23:42:24,A literate Org document on building Emacs from source - conditionally for RedHat or Debian,False,
+thephatmaster,1,21,2023-10-27 19:35:06,Hardware: BlueTooth Keyboard for Emacs (DooM)?,False,Question
+s-kostyaev,21,4,2023-10-27 19:26:46,Ellama moved to llm library and now supports proprietary LLMs as well as open source,False,
+ethanzanemiller,7,4,2023-10-27 16:07:29,Possible to use `fd` or some other faster search tool than `find` with consult,False,Question
+LostyPints,3,2,2023-10-27 13:16:29,ispell breaks my org-mode heading folding/unfolding,False,
+UnitFew5153,1,5,2023-10-27 11:02:19,Search engine,False,
+taeknibunadur,2,5,2023-10-27 08:21:20,Changing the value of a theme variable,False,
+unixbhaskar,14,2,2023-10-27 05:26:06,My Dired Symlink Hack,False,emacs-fu
+Far-Anywhere2876,16,14,2023-10-26 22:04:53,How to create a personal wiki in emacs?,False,
+paretoOptimalDev,7,12,2023-10-26 21:09:42,Share your org-mode agenda theme/screenshot (elisp included to auto-generate based on sample org file),False,
+jmhimara,17,23,2023-10-26 20:46:51,Can you recommend a version of emacs that works in Windows 98 or older?,False,Question
+josior,3,7,2023-10-26 19:29:57,How to preview buffer with HTML in eww/browser?,False,Question
+usuario1986,3,3,2023-10-26 18:23:00,Ivy/counsel results order,False,Question
+Orest58008,9,19,2023-10-26 18:14:50,Emacs for Rust,False,Question
+gonewest818,0,1,2023-10-26 17:42:12,Emacs 29.1 dired-mouse-drag-files crash on macOS,False,
+iMagUdspEllr,3,10,2023-10-26 17:30:28,How to follow windows shortcuts in dired,False,
+SuLinab,33,72,2023-10-26 11:38:08,Why the journey of learning Emacs and Elisp in 2023 is so hard ?,False,
+unixbhaskar,29,0,2023-10-26 11:20:57,Emacs blessings!,False,emacs-fu
+skyler544,6,6,2023-10-26 11:03:52,Indentation in yaml-ts-mode,False,
+tanrax,7,6,2023-10-26 07:26:53,Script in Elisp to generate a unified RSS feed with several feeds,False,
+chmouelb,12,12,2023-10-26 06:57:29,using ruff format with emacs to reformat python files,False,Announcement
+littlesisterrun,28,7,2023-10-25 19:45:37,New package: mini-echo.el,False,Announcement
+nonreligious,4,21,2023-10-25 14:55:14,`xwidget-webkit` has started crashing Emacs sessions,False,Question
+mplscorwin,7,7,2023-10-25 14:54:32,Redumping with pdumper,False,News
+vfclists,1,3,2023-10-25 13:37:35,What is the function for reading text line by line from the command line in batch mode?,False,
+Coyildiz,13,26,2023-10-25 10:21:28,What is yours configuration for python?,False,
+zsome,6,19,2023-10-25 09:57:14,bookmark+ or dogears or ?,False,
+divinedominion,39,101,2023-10-25 09:08:01,"Can Emacs do this? – Yes, Emacs can do this",False,emacs-fu
+github-alphapapa,7,6,2023-10-25 08:34:49,org-ql-open-link (new command offers links in matching Org entries with completion and opens the selected one directly),False,News
+AutoModerator,11,21,2023-10-25 08:15:09,"Weekly Tips, Tricks, &c. Thread",False,
+paarulakan,3,2,2023-10-25 08:10:44,Org-publish: Sorting posts based on data in the org file,False,Question
+xenodium,27,10,2023-10-24 18:02:23,"Emacs, open file in Xcode at same line",False,
+Tibblediggins,6,6,2023-10-24 11:41:25,How to make all temp buffers open in specific window?,False,
+rantdubey,1,12,2023-10-24 10:48:29,can't move to the beginning of defun in CC-mode 5.34.1,False,
+noobaster-pro-007,4,6,2023-10-24 06:04:42,Failing to load auctex when installed via elpaca,False,
+AbstProcDo,28,38,2023-10-24 04:59:34,"Dired drag files, trival but remarkable effective",False,
+github-alphapapa,29,9,2023-10-24 00:02:03,Release v0.7.3 · alphapapa/org-ql,False,Announcement
+ilemming,14,16,2023-10-23 22:17:38,Magit: cloning for worktrees,False,
+fmou67,3,6,2023-10-23 19:51:25,"save-excursion: Wrong type argument: integer-or-marker-p, nil in template definition",False,emacs-fu
+JeffreyBenjaminBrown,2,2,2023-10-23 16:44:24,`python-mode` has strong opinions about `outline-minor-mode`. Where are they documented?,False,Question
+_Akastos_,1,1,2023-10-23 13:04:20,Doom Emacs & columnview: How to ensure fixed fontsize in columnview?,False,
+vfclists,3,5,2023-10-23 11:36:04,Do functions like replace-regexp have the ability to replace groups independently?,False,
+jangid,7,14,2023-10-23 03:04:01,"Magit: How do you do ""git pull --no-rebase""?",False,Question
+MrPapouille,7,4,2023-10-23 01:41:50,Can Projectile run command when entering a project ?,False,
+cazzipropri,27,37,2023-10-23 00:34:12,Smallest device which could run comfortably emacs,False,
+Artistic-Safe232,4,12,2023-10-22 22:52:15,Emacs on XQuartz,False,Question
+unixbhaskar,6,2,2023-10-22 22:33:31,"ISEARCH tips, settings, options and uses (Advanced Topic)",False,emacs-fu
+SlowValue,8,2,2023-10-22 19:40:06,"Emacs 29, native-comp, why jit compiling same files on every start?",False,Solved
+Mahir1210,0,2,2023-10-22 18:13:23,Icons not appearing in neotree,False,Solved
+geospeck,23,12,2023-10-22 15:59:52,my pain points with Emacs code search and how I fixed them,False,
+publicvoit,1,15,2023-10-22 15:22:42,GPT4All mode in Emacs,False,Question
+slinchisl,17,3,2023-10-22 14:21:25,Fixing Lsp-Mode's Hover Signatures,False,
+Mahir1210,1,2,2023-10-22 10:38:52,Doom sync not working,False,Solved
+Decweb,4,11,2023-10-22 04:41:00,Common lisp definition speedbar in slime?,False,Question
+zzhjerry,4,6,2023-10-22 02:55:16,Why doesn't vertico-repeat support execute-exetended-command by default?,False,
+unixbhaskar,37,10,2023-10-22 01:30:35,Great links to help you learn Emacs Lisp,False,emacs-fu
+meedstrom,10,7,2023-10-22 01:08:04,"New package to scratch an itch: let me embed flashcards in simple paragraphs, rather than siloing them in Org subtrees!",False,Announcement
+wjcferguson,23,14,2023-10-21 17:52:48,New Journald log viewer package,False,
+AbstProcDo,32,17,2023-10-21 13:50:29,Tried gnuplot which plot only require basic math,False,
+rya_wcksn,1,2,2023-10-21 13:50:19,[HELP] Theme is different on terminal with daemon and no daemon,False,
+zoliky,17,24,2023-10-21 10:51:45,Question for those who use Fastmail with Emacs,False,
+Zwzhhh,0,4,2023-10-21 10:40:57,How to increase the font size of context menu for emacs compiled with x-toolkit=no?,False,
+paarulakan,3,3,2023-10-21 02:53:14,Workflow for maintaining logs of literate scripts using org-babel,False,
+FluffyBrudda,0,74,2023-10-21 01:59:13,how to run doom emacs on flatpak emacs?,False,Question
+MinallWch,8,2,2023-10-20 21:34:27,Org mode + Cybersecurity Workflow?,False,Question
+usuario1986,3,9,2023-10-20 20:57:15,Delete backup files when saving,False,Question
+telenieko,2,11,2023-10-20 13:49:36,Regex Find in files (non-interactive),False,
+vfclists,1,6,2023-10-20 13:05:23,How to replace string with a function value?,False,
+fmou67,4,1,2023-10-20 08:13:55,Exclude matches in occur based on a list of terms,False,
+fmou67,2,1,2023-10-20 07:57:34,"cannot open doc string file ""loaddefs.elc"" shown for many functions in the minibuffer",False,Question
+FreeAd7233,108,32,2023-10-20 06:03:40,dape.el: DAP client that does not rely on LSP-mode,False,
+sebhoagie,6,10,2023-10-19 21:24:18,Info manuals to install,False,
+TechieRefugee,9,2,2023-10-19 17:48:52,EXWM and Polybar - A (Mostly) Satisfying Solution,False,Solved
+Freemason_1,2,8,2023-10-19 16:55:34,How to set up lsp-java so that it works for an individual java file?,False,Solved
+AbstProcDo,13,14,2023-10-19 15:32:46,Casting spells in PlantUML as a wizard in org babel to translate words to graph,False,
+danderzei,53,5,2023-10-19 11:22:40,New version of Emacs Writing Studio: A configuration for authors,False,
+unixbhaskar,19,2,2023-10-19 10:51:51,All you need to know about the Emacs OCCUR command in 4 minutes,False,emacs-fu
+chesheersmile,7,18,2023-10-19 10:20:29,Is there break undo in Emacs?,False,Solved
+jangid,8,4,2023-10-19 10:17:22,Has anyone successfully configured gnus+gmail+oauth2?,False,
+arctic-owls,3,5,2023-10-19 10:09:17,Touchpad scrolling issue,False,Question
+CorysInTheHouse69,3,5,2023-10-19 07:43:11,How to disable everything from an lsp except for code completion (eglot)?,False,Question
+chmouelb,5,0,2023-10-19 05:20:24,consult-vc-modified-files - List git modified files in a project with consult and vc,False,Announcement
+BUYXRAYS,0,20,2023-10-19 00:05:34,What is your favorite Emacs flavor/version?,False,
+zamansky,35,4,2023-10-18 21:30:17,Back from vacation so continuing with my learning elisp series,False,
+jcdix,2,13,2023-10-18 18:55:28,dired+ causes pdf-tools to freeze emacs on large pdfs,False,Question
+jsadusk,1,4,2023-10-18 18:50:50,How do I wait for resize events to finish in elisp?,False,
+SnooPets20,4,17,2023-10-18 18:29:19,Emacs is inconsistent when clicking buttons with the mouse,False,Question
+nayanld,0,0,2023-10-18 17:53:31,Emacs Android: getting error while installing packages,False,Question
+Motor_Mouth_,3,2,2023-10-18 17:45:47,Help with functions to drag and drop pdf into bibtex file,False,Question
+Spatolone,7,40,2023-10-18 16:01:12,What are the extensions to have functional IDE in zero time?,False,
+ziplyx,16,7,2023-10-18 13:34:52,Why was the latest version of spacemacs released in 2018? Is the project no longer maintained?,False,Question
+arkoinad,6,14,2023-10-18 08:35:15,Intelligent paste in Emacs,False,
+AutoModerator,6,11,2023-10-18 08:15:09,"Weekly Tips, Tricks, &c. Thread",False,
+Unknown,12,9,2023-10-18 02:10:57,Getting all keybindings working in the TUI,False,
+AbstProcDo,24,12,2023-10-18 01:56:18,Tried plantuml for drawing and it amazing on org babel,False,
+unduly-noted,8,8,2023-10-18 01:49:55,opening magit full-frame then restoring windows on q,False,
+nqminhuit,4,13,2023-10-18 01:26:58,"How to autofill ""async-shell-command"" with last command",False,
+moseswithhisbooks,9,0,2023-10-18 01:13:55,Java: REPL Driven Development with 𝓔𝓶𝓪𝓬𝓼,False,
+blureglades,19,23,2023-10-17 19:39:07,Would you recommend EXWM as daily driver?,False,Question
+varsderk,8,8,2023-10-17 19:11:18,Using Eat + Eshell,False,
+Macksom,1,2,2023-10-17 18:57:30,Troubles with Auto Completion in Doom Emacs,False,Question
+ziplyx,0,1,2023-10-17 18:36:29,"Doom emacs users, share your init.el",False,
+paarulakan,6,10,2023-10-17 15:37:20,Monitoring emacs extensions that are currently in use,False,
+blureglades,2,5,2023-10-17 13:39:05,How to reduce lsp-mode input lag when working on javascript project?,False,Question
+cosmologica101,3,2,2023-10-17 13:31:49,`isearch-forward` and `cua` keybindings enabled,False,Solved
+egstatsml,28,11,2023-10-17 07:58:42,Window Management - share your display-buffer-alist,False,
+cynroach,3,12,2023-10-17 05:49:42,What are the greatest Emacs tips for a beginner? |EMACS IDE/ NOTE-TAKING APPLICATION|.,False,
+AbstProcDo,0,11,2023-10-16 23:37:27,"It's symbols not strings are fundamental data type, an insight from read.",False,
+graduale,2,0,2023-10-16 16:27:32,Org-mode: Killing subtrees with `visual-line-mode` on,False,Question
+ImJustPassinBy,4,9,2023-10-16 16:09:13,Changing projects / environments in eglot,False,Question
+Netherus,7,10,2023-10-16 16:07:31,Changing themes in Emacs according to specified time periods,False,
+samuelroy_,96,35,2023-10-16 14:23:19,emacs + llm = 🔥,False,
+AbstProcDo,7,4,2023-10-16 13:40:35,Exploring a little bit of the Intricacies and Elegance of Loop Macros,False,
+siht_psil,12,12,2023-10-16 13:32:00,What are your favourite ugly themes?,False,
+s-kostyaev,28,15,2023-10-16 11:53:13,Ellama - new package to call LLMs from Emacs,False,
+moseswithhisbooks,24,3,2023-10-16 10:32:48,“Send region to process” for all languages ᕦ( ᴼ ڡ ᴼ )ᕤ,False,
+Ardie83,7,13,2023-10-16 09:54:34,"Help, I'm lost! Emacs over SSH? Or something else?",False,
+nonreligious,3,4,2023-10-16 05:33:33,straight-freeze-version gives `straight--dir: Wrong type argument:`,False,Solved
+AbstProcDo,14,35,2023-10-16 00:51:42,nil or 'nil once worried me,False,
+Spiritual_Sprite,11,15,2023-10-16 00:14:24,Emacs for writing,False,Question
+unixbhaskar,7,2,2023-10-15 22:33:40,"Get me out of here! Quitting, exiting and recursion in Emacs",False,emacs-fu
+Tibblediggins,8,5,2023-10-15 22:06:34,Is there a project.el equivalent of projectile-project-root?,False,
+Altruistic-Carpet-43,17,19,2023-10-15 17:15:46,Why is there a use-package declaration inside another use-package config?,False,
+Tibblediggins,4,3,2023-10-15 16:49:19,How to force icomplete to execute the inputted command (ignore completions),False,
+amiralul,3,1,2023-10-15 15:01:57,Get the content of org files linked in Denote's dynamic blocks?,False,Question
+Horrih,31,46,2023-10-15 12:45:42,Why was setopt introduced in emacs 29 ?,False,
+chesheersmile,4,7,2023-10-15 11:44:33,Is there something like deft but single file?,False,Question
+BobKoss,0,4,2023-10-15 10:05:59,consult error,False,
+Jak_from_Venice,3,1,2023-10-15 08:07:49,Centaur tabs error after update,False,Question
+Far-Anywhere2876,2,1,2023-10-15 03:11:41,Need help changing jobname for latex export.,False,
+PracticalSound,3,5,2023-10-15 00:39:02,Move between template fields in company-mode auto completed function,False,Solved
+desgreech,6,3,2023-10-14 22:40:19,Controlling how thick the text is rendered,False,Question
+Grumph_101010,4,9,2023-10-14 21:13:26,Need help to make vertico/consult completion in find-file behave like the default emacs behavior.,False,Solved
+cmeerw,5,2,2023-10-14 20:46:28,directory-specific indentation with tree-sitter modes,False,Question
+Fun-Bunch-4555,2,8,2023-10-14 17:50:44,mbsync with gmail,False,
+glee13770334,2,1,2023-10-14 17:18:53,Helper functions for emacs keyboard shortcuts,False,Question
+cd21_geek,0,4,2023-10-14 16:56:13,lsp-treemacs icons not showing in Mac Terminal,False,
+el_toro_2022,3,3,2023-10-14 12:50:32,Schlau-compile -- a highly configurable compile macro for Emacs supporting any language you need.,False,Announcement
+LionyxML,40,6,2023-10-14 04:45:32,Integrating Catppuccin Themes with Auto-Dark,False,
+unixbhaskar,19,6,2023-10-14 02:29:30,"4 Great Line Commands in Emacs Including ""flush-lines""",False,
+Professional-Goal266,77,45,2023-10-14 01:19:39,"I know it's not for everyone, but I really like my coding workflow...",False,
+kp61dude,13,6,2023-10-13 23:21:34,Emacs 29.1 asking (yes or no),False,
+Altruistic-Carpet-43,33,18,2023-10-13 22:17:54,Is anything like this available for Emacs? I want a cat to wander around the buffer while I type :),False,
+IAmEscalator,0,2,2023-10-13 22:14:08,Evil-tutor is claiming innocence,False,Question
+Substantial_Bad1455,2,1,2023-10-13 20:13:05,Strange Behavior with Icons After Installing kde-plasma-desktop,False,Question
+ann4n,1,4,2023-10-13 20:02:06,Anyone know how I could replace all newlines in a paragraph with spaces?,False,
+SnooPets20,0,17,2023-10-13 17:12:02,Explicit project declaration with project.el,False,Question
+yak-er,0,34,2023-10-13 16:27:23,"Beginners, Emacs was not designed for today keyboards. Solutions: a modal package, keyboard with thumb cluster, remap modifiers, caps to ctrl is not enough long term.",False,
+Final-Recognition-61,3,3,2023-10-13 15:59:59,A lightweight evil configuration for web developer,False,
+a-concerned-mother,36,13,2023-10-13 15:28:32,5 Reasons I Love Emacs Orgmode,False,
+bozhidarb,68,12,2023-10-13 15:12:11,Projectile 2.8 is out!,False,
+Unknown,10,2,2023-10-13 14:12:23,How to keep a unified init.el between Android and Linux,False,
+fuck_all_cars,13,11,2023-10-13 10:48:26,Can you do code review with Magit and Forge?,False,Question
+zigling,17,22,2023-10-13 10:37:39,Project.el vs. Projectile: What things can one do that the other cannot?,False,Question
+Vultan,4,2,2023-10-13 01:46:14,"Org export to html, images, rescaling, and ImageMagick",False,Question
+gunnervi,1,3,2023-10-12 23:40:06,display error in remote emacs (24.3.1) when using theme,False,
+Keybug,15,3,2023-10-12 19:26:02,Org mode mouse cut and paste wizardry,False,
+mdbulldog,6,9,2023-10-12 17:31:08,Learning resources for emacs,False,
+marcbowes,58,142,2023-10-12 17:07:50,Future of remote development,False,
+titaniumbones,5,27,2023-10-12 14:55:49,emacs on macos tips?,False,Question
+zigling,10,25,2023-10-12 10:26:15,God vs. Devil vs. Evil: What do you use to avoid key chords? Reviews please!,False,Question
+pvgelder,2,7,2023-10-12 08:31:10,(Updated) best practices for avoiding loss of work?,False,
+No-Jackfruit3921,21,9,2023-10-12 07:22:42,Seaman Emacs - My first published config,False,
+ziplyx,4,20,2023-10-12 05:33:15,Where do I start writing my own emacs configuration?,False,Question
+Tohiko,7,6,2023-10-11 21:44:05,Link formatting in widgets,False,Question
+DarlingEffect,3,2,2023-10-11 21:41:39,"Spurious characters in eldoc buffer (eldoc, clangd)",False,
+raincole,6,9,2023-10-11 19:32:49,"eglot gets ""out of sync"" from the buffer and reports false errors",False,Question
+sk8ingdom,4,2,2023-10-11 18:33:15,Doom Emacs Terminal git-gutter Character Column Question,False,
+Horrih,14,9,2023-10-11 18:13:41,How mature are treesitter major modes for you ?,False,
+tallmtt,2,9,2023-10-11 17:52:23,Setting my own variables in init.el,False,
+fmou67,3,2,2023-10-11 16:16:18,"Any good way to search for CD, vinyls tracklists and covers... in Musicbrainz, CDDB, Discogs... from emacs",False,Question
+_polymatrix,0,9,2023-10-11 15:55:19,Open file popup,False,
+sparklingsphere,39,48,2023-10-11 13:07:06,Bad Emacs Defaults,False,emacs-fu
+Velnbur,0,4,2023-10-11 12:32:21,How do I disable bold and italic in tree-sitter-hl-mode?,False,Question
+olymk2,4,10,2023-10-11 09:47:55,Any suggestions for a Kill Compile Run Execute sequence from emacs in a single step ?,False,
+Ornery_Trick8179,4,9,2023-10-11 08:24:58,Store link in org attachments,False,
+AutoModerator,5,3,2023-10-11 08:15:10,"Weekly Tips, Tricks, &c. Thread",False,
+konrad1977,4,4,2023-10-11 08:01:40,Consult/Vertigo/Orderless how to not include (sub)path when finding a file?,False,
+_Gink0_,28,42,2023-10-11 06:31:16,How do you quickly navigate inside a source file using emacs ?,False,
+samuel1604,0,3,2023-10-11 02:48:51,[evil] Select in any kind of quote object,False,Question
+varsderk,12,3,2023-10-10 16:29:29,Completion in Eat,False,
+jvillasante,3,7,2023-10-10 15:59:56,emacs tree-sitter indentation,False,
+Far-Anywhere2876,3,2,2023-10-10 15:56:44,Any way to distinguish normal example blocks from org babel results?,False,
+larrasket,2,0,2023-10-10 14:10:57,Anyway to bind `centaur-tabs-do-close`?,False,Question
+XaoGao,0,6,2023-10-10 12:46:10,Crash packages after updates,False,
+Antique_Ad_3749,5,9,2023-10-10 11:31:49,Nvim user And Beginner looking for advice from Long time emacs users . Any help / suggestions are appreciated,False,
+Gallipo,41,89,2023-10-10 10:42:50,What would you make default?,False,
+Unknown,0,13,2023-10-10 08:05:22,Magit hiccup : transient-setup: Suffix,False,Question
+unixbhaskar,14,0,2023-10-09 22:58:42,Some helpful Xah Lee Selection Commands,False,emacs-fu
+Far-Anywhere2876,7,3,2023-10-09 22:39:22,Any way to stop org mode from adding preceding commas from src blocks?,False,
+jcdix,1,16,2023-10-09 22:38:25,How get emacs 29 built from source to recognize mu4e installed by apt,False,Question
+armindarvish,25,5,2023-10-09 22:25:02,"Announcing consult-gh 2.0, now with async search",False,
+Unknown,1,3,2023-10-09 20:08:21,Docker.el,False,
+Electrical-Series146,7,2,2023-10-09 20:01:49,rookie question from emacs videos,False,Solved
+potatowithascythe,6,2,2023-10-09 18:57:22,Org Headings appear with the markup but also with stars.,False,Question
+AnythingBeneficial59,4,3,2023-10-09 17:00:52,[deadgrep] Excluding files with glob?,False,Question
+celeritasCelery,43,16,2023-10-09 13:59:33,Text showdown: Gap Buffers vs Ropes,False,
+fmou67,1,2,2023-10-09 13:42:50,fzf in emacs under windows: it does not work since calling /bin/sh instead of a windows shell,False,Question
+telenieko,2,8,2023-10-09 13:34:33,Scheduled e-mail sending,False,
+Lin64_cd,3,2,2023-10-09 10:48:43,xwidget-webkit and wayland,False,
+tenmajr,18,0,2023-10-09 07:09:01,My first post sharing my org agenda view setup,False,
+tonyaldon,21,5,2023-10-09 06:48:41,How to write tests in Emacs Lisp?,False,
+gogo-bog,3,4,2023-10-08 22:18:54,How to find buffer by path?,False,Question
+unduly-noted,49,16,2023-10-08 20:39:55,I found a cool solution to a simple problem and I'm proud,False,
+_commitment,2,7,2023-10-08 20:05:38,How to debug this type of errors?,False,
+gmlarumbe,45,4,2023-10-08 18:58:36,fpga.el - FPGA & ASIC Utils for Emacs,False,
+ElfOfPi,2,2,2023-10-08 17:50:02,How does one plot a horizontal bar chart with Emacs org mode tables?,False,Question
+arthurno1,6,7,2023-10-08 14:58:55,Org-capture via completing read instead of read-key,False,emacs-fu
+stevemolitor,3,1,2023-10-08 13:41:35,Variable Weight Fonts,False,
+AkibAzmain,62,31,2023-10-08 10:01:56,Eat 0.9 released! 🎉,False,Announcement
+CountMoosuch,5,0,2023-10-08 09:35:27,Supporting electric plugins for custom major mode,False,Question
+ziplyx,25,63,2023-10-08 09:22:23,Doom or Spacemacs?,False,
+NextTimeJim,5,9,2023-10-08 07:46:49,Anyone working on an org to typst exporter?,False,Question
+AnythingBeneficial59,8,10,2023-10-08 06:21:51,How to remove `$` in the fringes on terminal emacs?,False,
+pr09eek,5,8,2023-10-08 04:51:16,elpaca-log buffer doesn't disappear automatically.,False,
+buhtz,2,7,2023-10-07 14:23:18,Improve Python code folding,False,
+Velascu,26,59,2023-10-07 13:02:55,Vim user trying to understand more of emacs,False,
+xenodium,13,1,2023-10-07 10:55:19,Trimming video screenshot from Emacs (feat. eshell in TRON legacy),False,
+unduly-noted,2,18,2023-10-07 04:22:17,Top and bottom padding/margin?,False,
+Hammar_Morty,190,27,2023-10-07 02:37:43,Showcase of my org-agenda /break-mode integrated into my system bar.,False,
+Far-Anywhere2876,2,7,2023-10-06 21:19:42,How to make org mode only fontify subscripts/superscripts if there are brackets?,False,
+geospeck,72,9,2023-10-06 19:56:31,EmacsConf - 2023 Talks,False,
+codethrasher,1,1,2023-10-06 17:19:22,Projectile and an NPM-based Monorepo,False,Question
+Coolrule360,3,0,2023-10-06 16:25:41,How to get dired like file permissions in marginalia.el,False,
+BigWinnz101,7,4,2023-10-06 16:02:48,"Way to Make I-search ""own"" the cursor.",False,Solved
+HisDufusness,3,1,2023-10-06 16:02:20,Help setup ZNC bouncer with ERC,False,Question
+JohnDoe365,1,6,2023-10-06 11:54:25,Share you wisdom - how do you make indented lists in markdown-mode?,False,Question
+xenodium,35,2,2023-10-06 11:16:10,Displaying basic image info in mode line,False,
+SeanHaz,3,1,2023-10-06 09:39:27,"use-package-chords feel slow, is there anything I can do to remedy it?",False,
+unixbhaskar,12,1,2023-10-06 09:31:02,"The Emacs ""selected"" package by Erik Sjöstrand",False,emacs-fu
+mnjarogt,7,10,2023-10-06 08:05:57,Need help finding this theme,False,
+Izder456,39,18,2023-10-06 00:42:56,Finally gotten around to documenting my code in org-mode,False,
+Far-Anywhere2876,4,0,2023-10-05 21:54:23,Need help fixing indentation for keywords in org-modern,False,
+theeJoker11,2,2,2023-10-05 21:04:00,Question regarding use-package and evil mode,False,
+jflatow,15,7,2023-10-05 20:37:53,New package: vzi.el - Pipe data from emacs to the browser (and visualize it),False,
+jakejxdev,20,13,2023-10-05 20:26:22,Workflow for reviewing code in Emacs?,False,
+SlowValue,5,4,2023-10-05 19:27:27,"""generating"" statistical data of org table columns with table formulas (a tip and questions)",False,
+waterstrider123,3,10,2023-10-05 18:22:47,Emacs tailored AI chatbot?,False,Question
+aadcg,5,0,2023-10-05 18:01:40,The role of keyboard design in advanced shell programs,False,
+SS4L1234,3,0,2023-10-05 17:46:51,dired-sidebar-toggle-sidebar error,False,
+sebhoagie,10,6,2023-10-05 16:56:06,New package: cdsync - CalDAV support for Dairy/Calendar,False,Announcement
+openbsdquestions,12,6,2023-10-05 16:53:06,Icons cut in half in terminal mode with doom-modeline,False,
+Ornery_Trick8179,9,7,2023-10-05 15:34:04,Emacs python mode weird indentation,False,Solved
+graduale,3,2,2023-10-05 15:17:36,Error in docstring for `completing-read-multiple`?,False,Question
+WorldsEndless,4,2,2023-10-05 11:49:44,How to see a different day's view as if today in orgmode agendaZ,False,Question
+k00rosh,1,0,2023-10-05 11:37:06,timezone issue with emacs installed via guix,False,Solved
+whudwl,1,3,2023-10-05 10:58:48,Inconsistent forward-char behavior when there is image?,False,Question
+mr_looser17,50,182,2023-10-05 04:09:02,Is switching to Emacs really worth it?,False,Question
+arylcyclohexylameme,4,7,2023-10-04 22:28:58,Using org files as executables with argument parsing?,False,Question
+Disastrous_Living845,1,2,2023-10-04 19:40:56,"Eshell tab completion while doing ""cd /ssh:"" and sudo",False,
+OptimusCrime73,2,0,2023-10-04 17:57:46,Org Jupyter is not working,False,
+dwrz,4,8,2023-10-04 15:26:44,Automatically adjust font size to fit fill-column,False,
+hvis,74,15,2023-10-04 15:02:51,Company 0.10.0 is out,False,
+littlesisterrun,14,4,2023-10-04 12:04:05,New package: git-cliff.el to generate and update changelog with git-cliff,False,Announcement
+2XFN1UTu5F,1,4,2023-10-04 11:24:17,smtpmail-smtp-service resets to 25,False,Question
+ummt,6,6,2023-10-04 10:12:41,Trouble launching Flatpak Firefox from Emacs,False,
+CountMoosuch,19,13,2023-10-04 08:51:52,How much support for old versions of Emacs should I provide?,False,Question
+AutoModerator,3,14,2023-10-04 08:15:08,"Weekly Tips, Tricks, &c. Thread",False,
+olivuser,10,8,2023-10-04 07:41:16,Implementation of the TimeTimer in Emacs,False,
+unduly-noted,7,5,2023-10-04 02:32:25,org-mode: how to keep whitespace around headings consistent?,False,
+ahyatt,18,0,2023-10-04 01:03:07,"Release 0.4 of ekg: drafts, ""magic tags"", llms and file notes!",False,Announcement
+hasselprassel,7,11,2023-10-03 21:48:52,Notion like tree viewer for notes,False,
+vjgoh,4,5,2023-10-03 17:50:58,treesit grammar issue in Windows/Unreal c++ classes,False,
+RobThorpe,6,13,2023-10-03 16:48:03,Using 'M-x compile' for a Python Venv,False,Question
+danielkraj,2,33,2023-10-03 12:01:01,(elfeed-deref (elfeed-entry-tags entry)) doesn't work,False,
+druuuun,7,6,2023-10-03 10:14:10,How to use the latest version of Eglot with Elpaca?,False,
+Horrih,4,6,2023-10-03 09:48:22,Access to clipboard history on windows,False,
+github-alphapapa,11,2,2023-10-03 06:16:34,Release v0.13 · alphapapa/ement.el (Matrix client for Emacs),False,Announcement
+MaxCenTrump,15,50,2023-10-03 06:10:58,PDF in Emacs,False,
+unixbhaskar,6,7,2023-10-03 03:57:10,How I feel after coding in Emacs #emacs #coding #pavarotti,False,emacs-fu
+Unknown,11,4,2023-10-03 01:05:51,How do I make this button bigger? It is very small on 4k screen.,False,Question
+vjgoh,7,10,2023-10-02 22:26:31,Where do I find the definition of the indentation modes? Any way to use .clang-format instead?,False,Question
+Far-Anywhere2876,4,4,2023-10-02 22:09:49,Is there a way to define an org entity in a way that it does not require a backslash?,False,
+rnadler,16,1,2023-10-02 20:52:02,Introducing elfeed-curate,False,
+LionyxML,18,3,2023-10-02 20:19:20,auto-dark-emacs - Updates on Linux: Gnome / Android (Termux),False,
+Hercislife23,4,0,2023-10-02 16:27:46,LSP Mode breadcrumbs icon blurry,False,
+nonreligious,3,1,2023-10-02 16:21:11,sage-shell-mode hangs when trying to run help(foo),False,Solved
+roboticfoxdeer,137,38,2023-10-02 15:34:45,EXWM is rewiring my brain and I love it,False,
+paarulakan,0,10,2023-10-02 14:01:37,Capturing notes to particular file org-capture,False,
+VentGrey,3,15,2023-10-02 01:33:19,Indentation issues with emacs configuration,False,Solved
+unixbhaskar,21,4,2023-10-02 00:30:19,"Speed up Emacs with features, requires, and autoloads",False,emacs-fu
+Bortolo_II,4,2,2023-10-01 20:51:17,Auctex,False,
+tesheabebe,6,13,2023-10-01 14:36:07,how to configure LSP (Language Server Protocol) for TypeScript with ESLint and Tailwind CSS in Emacs at the same time?,False,
+ann4n,37,152,2023-10-01 12:44:32,What are your thoughts on their criticism of Emacs?,False,
+Midnight_oD,56,31,2023-10-01 04:39:06,"new to emacs, hi",False,
+RevolutionaryWave795,3,2,2023-10-01 03:28:14,Recommendation for a programming language mode to edit juniper config files?,False,Question
+Gus_Gustavsohn,5,18,2023-10-01 00:06:17,What do you use to code on emacs lisp?,False,Question
+yasser_kaddoura,0,4,2023-09-30 21:13:09,How to setup indentation for a mode,False,Question
+Far-Anywhere2876,2,1,2023-09-30 20:43:18,Nand2tetris in org mode?,False,
+jvillasante,4,1,2023-09-30 19:38:47,emacs29 treesit support,False,
+haxguru,11,15,2023-09-30 18:47:57,How do I improve my development experience in Emacs?,False,Question
+gopherinhole,29,66,2023-09-30 17:42:37,Is it too late to learn emacs as a vim lifer?,False,Question
+gdanov,1,6,2023-09-30 15:57:59,hightlight current syntax tree branch?,False,
+magthe0,18,32,2023-09-30 15:10:27,Using Emacs as $EDITOR,False,
+Far-Anywhere2876,8,20,2023-09-30 14:51:14,How do I get a left pointer for file searching and interactive commands?,False,
+danielkraj,5,16,2023-09-29 20:59:38,Is anyone using elfeed? I'm trying to add a hook to send desktop notification when articles become available.,False,
+chmouelb,2,1,2023-09-29 19:54:45,flymake mode to codespell,False,Announcement
+floorgh0st,5,4,2023-09-29 19:48:13,Emacs Module Critique,False,
+tonyaldon,0,1,2023-09-29 19:28:43,Do you know how to list org-mode source blocks with Emacs Lisp?,False,
+danielkraj,1,19,2023-09-29 18:53:41,How do you load a package without ;;;autoloads header? (doom emacs),False,
+tesheabebe,28,18,2023-09-29 18:13:44,how to make lsp and eglot way faster like neovim?,False,Solved
+sunmoi,6,12,2023-09-29 16:30:10,Advice on improving the performance of pdf-tools,False,
+zebisnaga,4,10,2023-09-29 15:10:05,Archiving in the same file in orgmode,False,
+lushcries,2,11,2023-09-29 14:57:01,emacs org mode on windows,False,Question
+thetemp_,4,2,2023-09-29 14:54:04,debian: How-to on backporting an Emacs 29.1 package with pgtk and xwidgets-webkit support,False,
+zoliky,5,22,2023-09-29 11:58:03,Is it possible to compile Emacs without requiring sudo access into the home folder? Are there any disadvantages associated with doing so?,False,
+buhtz,7,15,2023-09-29 09:12:51,doom-modline / all-the-icons: Of course not working in terminal,False,
+JohnDoe365,1,0,2023-09-29 08:37:14,Extract (Copy) multiple files in tar mode,False,
+juicecelery,2,4,2023-09-29 07:49:18,"How to port such statements: ""json-alist.choices[0].message.content"" to succinct Emacs Lisp?",False,
+ReybirdLee,9,5,2023-09-29 04:26:26,What to do without vim-test or neotest?,False,
+Far-Anywhere2876,7,1,2023-09-29 03:46:49,How can I use lsp-grammarly in org mode with minimal UI?,False,
+tdavey,2,2,2023-09-28 22:28:20,tab-line-close-tab() yields (args-out-of-range 0 0) -- ideas?,False,
+ImportanceFit1412,19,59,2023-09-28 20:00:43,Best Emacs tools and set ups for RSI…??,False,
+redditisinmyheart,1,3,2023-09-28 19:55:32,Saved macro stopped working after I updated Emacs (Windows 10),False,Question
+mumbo1134,10,22,2023-09-28 19:14:05,Question about treesitter highlighting customization,False,
+Keybug,3,1,2023-09-28 15:37:40,Question on strikethrough formatting applied via noexport tag,False,
+oldjawbone,45,19,2023-09-28 15:17:55,org-side-tree: Navigate Org mode outlines in Emacs via side window,False,Announcement
+paarulakan,2,3,2023-09-28 12:56:08,Emacs for web scraping,False,Question
+Extra_Orchid_9830,0,7,2023-09-28 12:40:07,Shortcuts only activated after fist use ?,False,
+Shivalicious,7,2,2023-09-28 07:02:03,Building Emacs from Source on Windows [before a reinstallation made it stop working],False,
+paarulakan,1,2,2023-09-28 06:52:19,Functions for opening list of custom list of file with keychords,False,Question
+Far-Anywhere2876,4,8,2023-09-28 02:59:43,Is there a way to design an org block that acts as a mini-terminal?,False,
+dotancohen,3,4,2023-09-28 00:13:28,"Follow links with RET, in org mode and in documentation, with Evil",False,Question
+xeyenn,4,2,2023-09-27 20:25:16,defun to read PDF and scroll up or down a line in a customizable way.,False,
+ankitrgadiya,12,0,2023-09-27 17:12:20,Implement Custom Tramp Method in Emacs,False,emacs-fu
+cottasteel,44,4,2023-09-27 15:51:53,company-org-table: Excel-like auto-completion for Org table cells,False,
+arthurno1,4,2,2023-09-27 15:19:42,Use Bash aliases in interactive shell-comands,False,emacs-fu
+Neolomoxem,4,3,2023-09-27 09:38:17,How do i change the active DAP template?,False,Question
+AutoModerator,7,20,2023-09-27 08:15:08,"Weekly Tips, Tricks, &c. Thread",False,
+whudwl,2,4,2023-09-27 05:13:20,Prevent orgmode from adding an ID property to the very top of org file,False,Question
+DurableOne,10,0,2023-09-27 02:19:00,Orgmunge is now on PyPi,False,
+SS4L1234,3,8,2023-09-27 00:01:37,How to make a keybinding *sometimes* alias another (code auto-complete)?,False,
+amake,33,5,2023-09-26 22:44:14,Orgro app update: editing!,False,
+BattleGawks,8,10,2023-09-26 21:15:35,How to install treesitter for Org-Mode?,False,
+jchx,1,1,2023-09-26 20:49:37,org-mode CLOCK_MODELINE_TOTAL as a file property,False,
+Magazine_Ill,0,6,2023-09-26 18:37:28,how to add support for nunjack template files!,False,Question
+Magazine_Ill,7,8,2023-09-26 17:52:54,how to make a keybind for something i found in M-x?,False,Question
+lllllll22,0,3,2023-09-26 17:05:36,Problem with new installation,False,
+ttv_toeasy13,3,3,2023-09-26 16:14:38,Term separate from emacs/programs inside emacs buffer,False,Question
+AkiNoHotoke,4,2,2023-09-26 14:42:58,Emacs keybindings in the jupyter notebook text areas,False,Question
+Present_Assist3730,0,3,2023-09-26 09:46:51,Deutsche Umlaute werden nicht angezeigt,False,
+Magazine_Ill,8,5,2023-09-26 08:41:03,Can i use vim-adventures game to learn evil-mode?,False,Question
+Extra_Orchid_9830,3,6,2023-09-26 08:39:56,dump-jump,False,Solved
+stefrex,1,2,2023-09-26 08:01:46,Encounter stuck in a few seconds when switch between frames,False,
+SS4L1234,1,1,2023-09-26 00:39:21,dired-subtree not working with dired-omit-mode,False,
+Altruistic-Carpet-43,18,13,2023-09-26 00:06:43,Easy tip for smoother scrolling I just discovered,False,
+unixbhaskar,5,0,2023-09-25 22:47:28,Rightly Transfer Your Emacs System from Windows to Linux,False,emacs-fu
+Far-Anywhere2876,5,10,2023-09-25 17:37:00,Is there a way to make src blocks run in sequence if dependent on eachother?,False,
+Silerus9768,6,4,2023-09-25 15:32:58,"Is it possible to add an additional lsp when opening a project file? And if So, how?",False,
+sudeenhux,17,13,2023-09-25 10:23:22,Mysterious Emacs Keybindings in Apple Mail,False,
+nullpspace,0,7,2023-09-25 10:08:23,Help setting up eglot + clangd for C++ development,False,
+fmou67,4,4,2023-09-25 07:43:15,Csv-align-mode and first headers line,False,
+Silarium,3,4,2023-09-25 03:27:43,Help with displaying #+title: property in Treemacs for Org files,False,
+SS4L1234,82,151,2023-09-24 23:08:05,What's something in your emacs config that makes a real difference for you?,False,
+Jack-o-tall-tales,4,3,2023-09-24 20:30:13,Why I can't use `forward-line' to move point in another buffer?,False,Question
+Ahmed-Dalton,1,5,2023-09-24 14:11:32,flycheck in doom Emacs problem,False,Question
+mindgitrwx,2,7,2023-09-24 11:36:11,Is there a way to implement this Vim feature in Emacs using Evil mode?,False,
+magthe0,9,1,2023-09-24 09:08:08,Defining a formatter for Cabal files,False,
+Scroot,3,2,2023-09-24 02:58:29,"Are conditional, per-project auto-mode mappings possible?",False,
+github-alphapapa,42,2,2023-09-23 23:42:49,Release v1.3 · alphapapa/org-super-agenda,False,Announcement
+ahyatt,28,0,2023-09-23 21:23:39,New library package 'llm',False,Announcement
+redditisinmyheart,0,12,2023-09-23 19:49:03,Still using Emacs 25.3.1 on Windows 10. Any reasons to switch to the latest version?,False,Question
+ledmine,37,34,2023-09-23 19:13:10,Learning resources for Emacs,False,
+DangerTadpole,37,9,2023-09-23 17:22:17,"New package: MisTTY, a comint alternative with a fully-functional terminal",False,Announcement
+SameAsEveryoneElse,10,33,2023-09-23 14:02:47,Help finding a theme,False,
+LeonardoZarkli,17,8,2023-09-23 12:41:02,New Tree Sitter Major Mode: typst-ts-mode,False,
+imacarpet,7,23,2023-09-23 08:51:20,How can I completely supress the *completions* minibuffer?,False,
+SS4L1234,3,4,2023-09-23 06:49:00,Comments that serve as commands?,False,
+SS4L1234,2,8,2023-09-23 05:56:06,Setting tool-bar-mode messes with startup,False,
+CeamoreCash,4,2,2023-09-23 02:53:42,Workaround to handle key-up events?,False,
+danderzei,31,8,2023-09-22 22:36:14,Emacs or Efuns?,False,
+Far-Anywhere2876,8,13,2023-09-22 20:51:58,Is it possible to query an org table using sqlite?,False,
+Hammar_Morty,9,7,2023-09-22 16:19:06,Is There an Interface for Editing Per-Directory Local Variables?,False,
+potatowithascythe,1,11,2023-09-22 13:00:56,"When running the elpaca package manager and installing org mode, it throws an error on org documents",False,Question
+AbstProcDo,4,4,2023-09-22 10:08:11,How could edit the results of occur,False,Question
+brunjact,10,4,2023-09-22 08:45:34,Calendar: add x days to date,False,
+MakeItEnd14,1,0,2023-09-22 07:19:52,Help with emacs evil shotcut to change per mode,False,Question
+BukHunt,2,6,2023-09-22 03:49:32,Guide to setup proper code indentation,False,Question
+worker55,6,23,2023-09-21 23:29:22,Setting a jump point using xref-find-definitions.,False,Question
+cyneox,39,19,2023-09-21 20:10:12,Emacs and the Cybernetic Productivity,False,
+Far-Anywhere2876,1,2,2023-09-21 18:02:49,Automatically wrap subfigure links in a centered figure environment.,False,
+LostyPints,0,2,2023-09-21 17:33:01,Aggressive Ident - How can i edit how it indents in certain situations,False,Solved
+telepath12,1,6,2023-09-21 16:52:26,Weird warnings using Emacs 28.2 (not other versions!),False,Question
+AkiNoHotoke,19,45,2023-09-21 11:41:38,Emacs as a window manager but without EXWM,False,Question
+markrlondon,65,13,2023-09-21 03:38:34,"This since from the Interview with an Emacs Enthusiast video, but you might have not seen it.",False,
+breathe-out,15,0,2023-09-21 02:29:15,chordpro-mode.el version 2.1.0,False,Announcement
+Zwzhhh,2,2,2023-09-21 02:11:22,Is it possible to make a child frame that has only tab-bar-mode?,False,
+mumbo1134,2,3,2023-09-20 23:43:18,Issue with emacs-29 reading xmodmap,False,
+Remote_Tap_7099,72,21,2023-09-20 20:24:35,Version 4.3.0 of the Modus themes has been released!,False,Announcement
