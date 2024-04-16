@@ -32,7 +32,3 @@ This project offers a comprehensive analysis of Reddit contributions in the `r/e
 - Full project report detailing methodology, analysis, and findings.
 - [Project Report PDF](https://drive.google.com/file/d/1ysXsPkNLeEdNqQUCRgufUp4d5YFa-1E-/view?usp=sharing)
 
-
-## Acknowledgements
-- Submited to Dr. Mariam Guizani
-
